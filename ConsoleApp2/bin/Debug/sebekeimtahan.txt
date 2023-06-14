@@ -1,0 +1,2477 @@
+1. OSI modelind? hansi s?viyy? istifad?çiy? ?n yaxindir? 
+A) Application (T?tbiqi)
+B) Presentation (T?qdimat)
+C) Transport (N?qliyyat)
+D) Network (S?b?k?)
+E) Physical (Fiziki)
+
+2. HTTPS protokolu OSI modelind? hansi s?viyy?y? müvafiqdir?
+A) Application (T?tbiqi)
+B) Presentation (T?qdimat)
+C) Transport (N?qliyyat)
+D) Network (S?b?k?)
+E) Physical (Fiziki)
+
+3. OSI modelin hansi s?viyy?sind? m?lumatlarin m?xfil?sdirilm?si h?yata keçirilir?
+A) Presentation (T?qdimat)
+B) Application (T?tbiqi)
+C) Transport (N?qliyyat)
+D) Network (S?b?k?)
+E) Physical (Fiziki)
+
+4. OSI modelin hansi s?viyy?sind? "Application" s?viyy?sinin f?rqli formatlari arasinda çevirm?l?r h?yata keçirilir?
+A) Presentation (T?qdimat)
+B) Application (T?tbiqi)
+C) Transport (N?qliyyat)
+D) Network (S?b?k?)
+E) Physical (Fiziki)
+
+5. OSI modelin hansi s?viyy?si m?lumat mübadil?sini h?yata keçir?n t?tbiql?r arasinda ?laq?ni qurur, idar? edir v? sonlandirir?
+A) Session
+B) Application
+C) Data link
+D) Network (S?b?k?)
+E) Physical (Fiziki)
+
+6.  OSI modelinin hansi s?viyy?sind? m?lumat parçalara (seqement / dataqram) bölünür?
+A) Transport (N?qliyyat)
+B) Presentation (T?qdimat)
+C) Application (T?tbiqi)
+D) Network (S?b?k?)
+E) Physical (Fiziki)
+
+
+
+
+
+
+7. OSI modelinin hansi s?viyy?si m?ntiqi ünvanlamani t?min edir?
+A) Network (S?b?k?)
+B) Transport (N?qliyyat)
+C) Presentation (T?qdimat)
+D) Application (T?tbiqi)
+E) Physical (Fiziki)
+
+8. OSI modelinin hansi s?viyy?si m?nb? v? m?ns?b arasinda yol seçimini t?min edir?
+A) Network (S?b?k?)
+B) Transport (N?qliyyat)
+C) Presentation (T?qdimat)
+D) Data link
+E) Physical (Fiziki)
+
+9. OSI modelinin hansi s?viyy?si "host-to-host" ?laq?sini v? IP paketl?rinin mübadil?sini t?min edir?
+A) Transport (N?qliyyat)
+B) Network (S?b?k?)
+C) Data link
+D) Application (T?tbiqi)
+E) Physical (Fiziki)
+
+10. OSI modelin? müvafiq PDU terminl?rini mü?yy?n et.
+A) L7÷L5 - data, L4 - seqment/dataqram, L3 - packet, L2 - frame, L1 - bit
+B) L7÷L5 - seqment, L4 -dataqram, L3 - packet, L2 - frame, L1 - bit
+C) L7÷L5 - dataqram, L4 - seqment, L3 - packet, L2 - frame, L1 - bit
+D) L7÷L5 - data, L4 - seqment/dataqram, L3 - frame, L2 - packet, L1 - bit
+E) L7÷L5 - dataqram, L4 - seqment, L3 - frame, L2 - packet, L1 - bit
+
+11. OSI modelinin hansi s?viyy?si "node-to-node" ?laq?sini v? "Ethernet frame"l?rinin mübadil?sini t?min edir?
+A) Data link
+B) Network (S?b?k?)
+C) Transport (N?qliyyat)
+D) Application (T?tbiqi)
+E) Physical (Fiziki)
+
+12. OSI modelinin hansi s?viyy?si "Fiziki" s?viyy?d? bas ver?n x?talari askar edir v? aradan qaldirir?
+A) Data link
+B) Network (S?b?k?)
+C) Transport (N?qliyyat)
+D) Application (T?tbiqi)
+E) Physical (Fiziki)
+
+13. OSI modelinin hansi s?viyy?si qurgular arasinda m?lumat mübadil?si üçün ötürücü mühitin fiziki xass?l?rini mü?yy?n edir?
+A) Physical (Fiziki)
+B) Data link
+C) Network (S?b?k?)
+D) Transport (N?qliyyat)
+E) Application (T?tbiqi)
+
+14. OSI modelinin hansi s?viyy?sind? r?q?mli bitl?r elektrik, optik v? ya radio siqnallara çevrilir?
+A) Physical (Fiziki)
+B) Data link
+C) Network (S?b?k?)
+D) Transport (N?qliyyat)
+E) Application (T?tbiqi)
+
+15. TCP/IP model hansi s?viyy?l?rd?n ibar?tdir?
+A) Application, Transport, Internet, Link
+B) Application, Presentation, Internet, Link
+C) Application, Transport, Internet, Network
+D) Presentation, Transport, Internet, Network
+E) Presentation, Transport, Internet, Physical
+
+16. OSI modelin hansi s?viyy?l?ri TCP/IP modelinin "Application" s?viyy?sin? müvafiqdir?
+A) Application, Presentation, Session
+B) Application, Presentation, Session, Transport
+C) Application, Presentation
+D) Transport, Network, Data Link
+E) Transport, Data Link, Physical
+
+17. OSI modelin hansi s?viyy?l?ri TCP/IP modelinin "Internet" s?viyy?sin? müvafiqdir?
+A) Network 
+B) Data Link
+C) Physical 
+D) Application 
+E) Presentation 
+
+18. OSI modelin hansi s?viyy?si TCP/IP modelinin "Link" s?viyy?sin? müvafiqdir?
+A) Data Link, Physical 
+B) Application, Presentation 
+C) Application, Session, Transport
+D) Presentation, Network
+E) Transport, Network
+
+19. OSI modelind? 7-ci (Application) s?viyy?d?n 1-ci (Physical) s?viyy?y? dogru m?lumat çevrilm?l?ri nec? adlanir?
+A) Encapsulation
+B) De-encapsulation
+C) Adjacent-layer interaction
+D) Same-layer interaction
+E) Traffic interaction
+
+20. OSI modelind? 1-ci (Physical) s?viyy?d?n 7-ci (Application) s?viyy?y? dogru m?lumat çevrilm?l?ri nec? adlanir?
+A) De-encapsulation 
+B) Encapsulation
+C) Adjacent-layer interaction
+D) Same-layer interaction
+E) Traffic interaction
+
+21. OSI modelinin qonsu s?viyy?l?ri arasinda qarsiliqli ?laq? nec? adlanir?
+A) Adjacent-layer interaction
+B) Encapsulation
+C) De-encapsulation
+D) Same-layer interaction
+E) Traffic interaction
+
+22. M?lumat mübadil?sini h?yata keçir?n hostlarda OSI modelinin eyni s?viyy?l?ri arasinda qarsiliqli ?laq? nec? adlanir?
+A) Same-layer interaction
+B) Adjacent-layer interaction
+C) Encapsulation
+D) De-encapsulation
+E) Traffic interaction
+
+23. S?b?k? müh?ndisinin OSI modelin? müvafiq ?sas f?aliyy?t s?viyy?l?ri hansilardir?
+A) Transport, Network, Data Link, Physical
+B) Application, Presentation, Session, Physical
+C) Application, Session, Transport, Data Link,
+D) Application, Presentation, Session, Network
+E) Session, Transport, Data Link, Physical
+
+1) S?b?k? v? topologiya növl?ri
+24. Kompüterl?r arasinda informasiya mübadil?sini radiodalgalar vasit?sil? h?yata keçir?n s?b?k? nec? adlanir?
+A) WLAN
+B) WDSAN
+C) RoIP
+D) VLAN
+E) WAN
+
+25. Hansi topologiya növl?rind? linkl?rin sayi nodlarin sayindan 1 vahid azdir?
+A) Ulduz, Agac
+B) Halga, Ulduz
+C) Agaç, Qism?n-qarisiq
+D) Halga, Agaç
+E) Agaç, Tam-Qarisiq
+
+26. Hansi topologiya növünd? ist?nil?n iki node arasinda yalniz bir fiziki    yol mövcuddur?
+A) Agac, Ulduz
+B) Halga, Ulduz
+C) Agaç, Qism?n-qarisiq
+D) Halga, Agaç
+E) Agaç, Tam-Qarisiq
+
+
+
+
+
+
+27. Hansi topologiya növünd? ist?nil?n iki node arasinda 3-cü node üz?rind?n "hop" etm?d?n yol mövcuddur?
+A) Tam-Qarisiq 
+B) Agac, Ulduz
+C) Tam-Qarisiq 
+D) Ulduz
+E) Qism?n-qarisiq
+
+28. Hansi topologiya növünd? mü?yy?n M node-u istisna olmaqla ist?nil?n node-dan dig?r node-a fiziki v? m?ntiqi yol yalniz M node üz?rind?n mövcuddur?
+A) Ulduz
+B) Halga, Ulduz
+C) Agaç, Qism?n-qarisiq
+D) Halga, Agaç
+E) Agaçq
+
+29. Hansi topologiya növünd? ist?nil?n iki node arasinda yalniz iki fiziki yol mövcuddur?
+A) Halga
+B) Agac, Ulduz
+C) Halga, Ulduz
+D) Qism?n-qarisiq
+E) Agaç
+
+30. Tam-Qarisiq ("Full Mesh") topologiya növünd? linkl?rin sayi n? q?d?r olur? Burada n - nodlarin sayidir. 
+A) n(n-1)/2
+B) n!
+C) 2*(n-2)!/n!
+D) n!/(n-2)!
+E) n!/2
+
+31. Hansi topologiya növünd? mü?yy?n kritik node siradan çixarsa bütün dig?r node-lar arasinda ?laq?l?r itir?
+A) Ulduz 
+B) Halga
+C) Agac, 
+D) Halga, Ulduz
+E) Qism?n-qarisiq
+
+32. Hansi topologiya növünd? h?r bir node-un yalniz iki qonsu node-la ?laq?si mövcuddur? 
+A) Halga
+B) Ulduz 
+C) Agac
+D) Halga, Ulduz
+E) Qism?n-qarisiq
+
+
+
+
+
+
+33. Hansi topologiya növünd?, mü?yy?n kritik node istisna olmaqla, dig?r bütün node-larin yalniz bir qonsu node-la ?laq?si mövcuddur? 
+A) Ulduz 
+B) Halga
+C) Agac
+D) Halga, Ulduz
+E) Qism?n-qarisiq
+
+2) IP v? MAC ünvanlar, Subnetting
+34. IPv4 üçün C sinifd? maksimal neç? host istifad? edil? bil?r?
+A) 254
+B) 256
+C) 65534
+D) 255
+E) 126
+
+35. /17 prefiksi hansi Subnet Maskaya uygundur?
+A) 255.255.128.0
+B) 255.255.255.224
+C) 255.255.0.0
+D) 255.255.64.0
+E) 255.255.192.0
+
+36. Asagidaki IP ünvanlardan hansi düzgün verilm?yib?
+A) 153.255.13.251
+B) 111.123.253.10
+C) 201.235.02.1
+D) 192.168.233.255
+E) 172.16.100.254
+
+37. MAC ünvan neç? bit uzunluqdadir?
+A) 48
+B) 64
+C) 24
+D) 32
+E) 128
+
+38. Ikilik say sistemind? göst?ril?n 00111111 00111000 11100111 00010011 IP ünvaninin onluq say sistemind? qarsiligi nec? olacaq?
+A) 63.56.231.19
+B) 65.58.229.17
+C) 65.56.229.19
+D) 65.58.231.19
+E) 63.56.229.19
+
+
+
+39. Ikilik say sistemind? göst?ril?n 11110011 01111111 01100010 00000001 IP ünvaninin onluq say sistemind? qarsiligi nec? olacaq?
+A) 243.127.98.1
+B) 245.129.96.1
+C) 245.127.96.1
+D) 243.127.96.1
+E) 243.131.98.1
+
+40. Ikilik say sistemind? göst?ril?n 01101111 00000110 01011001 11000111 IP ünvaninin onluq say sistemind? qarsiligi nec? olacaq?
+A) 111.6.89.199
+B) 113.8.91.197
+C) 111.6.91.199
+D) 113.6.89.199
+E) 111.6.89.201
+41. Ikilik say sistemind? göst?ril?n 11001111 11000110 00101111 01001100 IP ünvaninin onluq say sistemind? qarsiligi nec? olacaq?
+A) 207.198.47.76
+B) 205.196.45.76
+C) 209.198.47.76
+D) 207.198.47.78
+E) 205.198.47.76
+42. Ikilik say sistemind? göst?ril?n 01100100 11001001 00100001 11111101 IP ünvaninin onluq say sistemind? qarsiligi nec? olacaq?
+A) 100.201.33.253
+B) 100.203.33.253
+C) 100.205.33.253
+D) 102.201.33.251
+E) 98.201.37.255
+
+43. MAC ünvanin birinci 3 bayt hiss?si n?yi bildirir?
+A) Avadanligi istehsal ed?n sirk?ti 
+B) Qlobal s?b?k?nin ID ünvanini
+C) Lokal s?b?k?nin ID ünvanini
+D) Istehsal ilini v? avadanligin seriya nömr?sini
+E) Avadanligin seriya nömr?sini
+
+44. Praktikada MAC ünvani nec? yazilir?
+A) 16-liq say sistemind? 12 r?q?mli ?d?d s?klind?
+B) 16-liq say sistemind? 18 r?q?mli ?d?d s?klind?
+C) 8-lik say sistemind? 12 r?q?mli ?d?d s?klind?
+D) 8-lik say sistemind? 24 r?q?mli ?d?d s?klind?
+E) 16-liq say sistemind? 48 r?q?mli ?d?d s?klind?
+
+
+
+
+
+
+45. Verilmis 1.1.1.0 /24 s?b?k?sini t?rkibind? 110, 50, 25, 13, 6, 2 v? 1 ?d?d host üçün minimal IP ünvan diapazonuna malik f?rqli alt s?b?k?l?r? bölün, h?r birinin s?b?k? IP ünvani v? Subnet Maskasi (prefiks s?klind?) nec? olacaq?
+A) 1.1.1.0 /25;  1.1.1.128 /26;  1.1.1.192 /27;  1.1.1.224 /28;  1.1.1.240 /29;  1.1.1.248 /30  v? 1.1.1.252 /30 
+B) 1.1.1./24;  1.1.2.0 /24;  1.1.3.0 /24;  1.1.4.0 /24;  1.1.5.0 /24; 1.1.6.0 /24  v? 1.1.7.0 /24 
+C) 1.1.1./25;  1.1.1.0 /26;  1.1.1.0 /27;  1.1.1.0/28;  1.1.1.0 /29;  1.1.1.0 /30  v? 1.1.1.0 /30 
+D) 1.1.1.0 /25;  1.1.1.0 /26;  1.1.1.0 /27;  1.1.1.0/28;  1.1.1.0 /29;  1.1.1.0 /30  v? 1.1.1.0 /31 
+E) 1.1.1.0/25;  1.1.1.128 /26;  1.1.1.192 /27;  1.1.1.224 /28;  1.1.1.240 /29;  1.1.1.248 /30  v? 1.1.1.252 /31 
+
+46. Verilmis 1.1.1.0 /24 s?b?k?sini t?rkibind? 64, 32, 23 v? 15 ?d?d host üçün minimal h?cmd? IP ünvan diapazona malik f?rqli alt s?b?k?l?r? bölün, h?r birinin s?b?k? IP ünvani v? Subnet Maskasi (prefiks s?klind?) nec? olacaq?
+A) 1.1.1.0 /25;  1.1.1.128 /26;  1.1.1.192 /27;  1.1.1.224 /27 
+B) 1.1.1./24;  1.1.2.0 /24;  1.1.3.0 /24;  1.1.4.0 /24
+C) 1.1.1./26;  1.1.1.0 /27;  1.1.1.0 /28;  1.1.1.0/29 
+D) 1.1.1.0 /26;  1.1.1.128 /27;  1.1.1.192 /28;  1.1.1.224 /28 
+E) 1.1.1.0 /26;  1.1.1.128 /27;  1.1.1.192 /28;  1.1.1.224 /29 
+
+47. Verilmis 1.1.1.0 /24 s?b?k?sini t?rkibind? 73, 30, 23, 15, 14  v? 8 ?d?d host üçün minimal h?cmd? IP ünvan diapazona malik f?rqli alt s?b?k?l?r? bölün, h?r birinin s?b?k? IP ünvani v? Subnet Maskasi (prefiks s?klind?) nec? olacaq?
+A) 1.1.1.0 /25;  1.1.1.128 /27;  1.1.1.160 /27;  1.1.1.192 /27 ; 1.1.1.224 /28 v? 1.1.1.240 /28
+B) 1.1.1.0 /25;  1.1.1.0 /27;  1.1.1.0 /27;  1.1.1.0 /27 ; 1.1.1.0 /28 v? 1.1.1.0 /27
+C) 1.1.1.0 /25;  1.1.1.128 /27;  1.1.1.160 /27;  1.1.1.192 /27 ; 1.1.1.224 /28 v? 1.1.1.240 /27
+D) 1.1.1.0 /25;  1.1.1.128 /26;  1.1.1.192 /27;  1.1.1.224 /28;  1.1.1.240 /29  v?  1.1.1.248 /29  
+E) 1.1.1.0 /25;  1.1.1.128 /26;  1.1.1.192 /27;  1.1.1.224 /27;  1.1.1.240 /28  v?  1.1.1.248 /28  
+
+48. Asagidakilardan hansi B sinif IPv4 ünvani üçün s?b?k? maskasidir?
+A) Heç biri deyil
+B) 255.255.128.0
+C) 255.255.255.0
+D) 255.128.0.0
+E) 255.255.255.128
+
+49. 192.168.1.15 /26 IP ünvanin Wildcard Maskasi hansidir?
+A) 0.0.0.63
+B) 0.0.0.31
+C) 0.0.0.127
+D) 0.0.0.91
+E) 0.0.0.191
+
+50. 192.168.1.15 /27 IP ünvanin Wildcard Maskasi hansidir?
+A) 0.0.0.31
+B) 0.0.0.17
+C) 0.0.0.7
+D) 0.0.0.63
+E) 0.0.0.91
+
+
+
+51.  192.168.100.157 /26 IP ünvanin Broadcast ünvani hansidir?
+A) 192.168.100.191
+B) 192.168.100.127
+C) 192.168.100.255
+D) 192.168.100.63
+E) 192.168.100.192
+
+52. 192.168.70.147 /28 IP ünvanin Broadcast ünvani hansidir?
+A) 192.168.70.159
+B) 192.168.70.255
+C) 192.168.70.191
+D) 192.168.70.175
+E) 192.168.70.160
+
+53.  172.18.0.0 /16 IP s?b?k?sini dörd b?rab?r alt s?b?k?y? bölün, ikinci alt s?b?k?nin Subnet IP (SIP) v? Broadcast IP (BIP) ünvanlarini mü?yy?n edin.
+A) SIP: 172.18.62.0 /18; BIP: 172.18.127.255 /18
+B) SIP: 172.18.0.62 /18; BIP: 172.18.255.127 /18
+C) SIP: 172.18.0.0 /18; BIP: 172.18.255.255 /18
+D) SIP: 172.18.128.0 /18; BIP: 172.18.192.255 /18
+E) SIP: 172.18.192.0 /18; BIP: 172.18.255.255 /18
+
+54. 172.20.0.0 /16 s?b?k?sini, h?r birind? 1000 host olmaqla, ?n çox neç? alt s?b?k?y? bölm?k olar?
+A) 64
+B) 32
+C) 16
+D) 128
+E) 256
+
+55. 172.16.10.131 /29 IP ünvanin ilk IP (FIP) v? son IP (LIP) ünvanlari hansilardir?
+A) FIP: 172.16.10.121; LIP: 172.16.10.127
+B) FIP:172.16.10.141; LIP:172.16.10.147
+C) FIP:172.16.10.129; LIP:172.16.10.135
+D) FIP:172.16.10.103; LIP:172.16.10.107
+E) FIP:172.16.10.93; LIP:172.16.10.223
+
+56.  172.16.1.225 /29 IP ünvanin Subnet Maskasi hansidir?
+A) 255.255.255.248
+B) 255.255.255.140
+C) 255.255.255.252
+D) 255.255.255.228
+E) 255.255.255.246
+
+57. A sinif IPv4 üçün Subnet Mask (prefiks) hansidir?
+A) /8
+B) /16
+C) /24
+D) /32
+E) /25
+
+
+58. 172.16.0.0/16 s?b?k?sini, h?r birind? 1230 host olmaqla, neç? alt s?b?k?y? (ns) bölm?k olar v? hansi prefiks (P) t?tbiq olunmalidir?
+A) ns = 16; P = 20
+B) ns = 32; P = 19
+C) ns = 64; P = 18
+D) ns = 8; P = 21
+E) ns = 30; P = 20
+
+59. 172.35.105.40 /20 IP ünvaninin Subnet IP ünvani hansidir?
+A) 172.35.96.0
+B) 172.35.105.96
+C) 172.35.64.0
+D) 172.35.105.32
+E) 172.35.105.255
+
+60. 172.35.105.40 /20 IP ünvaninin Broadcast IP ünvanini hansidir?
+A) 172.35.111.255
+B) 172.35.96.255
+C) 172.35.111.0
+D) 172.35.127.0
+E) 172.35.127.255
+
+61. S?kil 2.1-d? göst?ril?n s?b?k?d? PC2-d?n PC1-? ping (ICMP paketi) keç?rmi v? n? üçün?
+A) Keçm?z, çünki PC-l?r f?rqli s?b?k?d?dir
+B) Keç?r, çünki PC-l?r eyni s?b?k?d?dir
+C) Keç?r, çünki interface-l?r eyni vlana t?hkim olunub
+D) Keçm?z, çünki default gateway qeyd olunmayib
+E) Keç?r, çünki h?m interface-l?r eyni vlana t?hkim olunub, h?m d? PC-l?r eyni s?b?k?d?dir
+
+3) S?b?k? cihazlarina t?hlük?siz girisin t?min olunmasi
+
+62. Privileged Exec mode-a girisin qorunmasi üçün ?n t?hlük?siz metod hansidir?
+A) enable secret <sifr> ?mri
+B) enable password <sifr> ?mri
+C) service password-encryption t?tbiq etm?kl? enable password <sifr> ?mri
+D) enable special entries <sifr> ?mri
+E) service password-encryption <sifr> ?mri 
+
+63. ?g?r enable password <sifr1> v? enable secret <sifr2> funksiyalarin h?r ikisi ayarlanarsa "Privileged Exec" mode-a giris üçün hansi gizli sözü daxil etm?k t?l?b olunur?
+A) sifr2
+B) sifr1
+C) ?vv?lc? sifr2, sonra sifr1
+D) ?vv?lc? sifr1, sonra sifr2
+E) H?r ikisi m?qbuldur
+
+
+
+
+
+
+64. S?b?k? cihazlarini m?saf?d?n ayarlamaq üçün hansi protokoldan istifad? oluna bil?r?
+A) telnet v? ssh
+B) telnet va ya ssh
+C) ssh
+D) consol
+E) telnet
+
+65. Hansi protokol v? ya üsul s?b?k? cihazlarini t?hlük?siz ayarlamaga imkan verir?
+A) local (consol) v? ssh
+B) telnet v? ssh
+C) ssh
+D) local (consol) v? tts
+E) hamisi
+
+66. S?b?k? cihazina consol portu il? eyni zamanda neç? inzibatçi daxil ola bil?r?
+A) 1
+B) 2
+C) 4
+D) 15
+E) 16
+
+67. Cisco cihazinda SW(config)#line vty 0 4 ?mri n? üçündür?
+A) M?saf?d?n idar? etm? imkanini t?min ed?n protokollari ayarlamaq üçün
+B) VLAN-lar arasinda routing funksiyasini t?min etm?k üçün
+C) Fiziki kanallarin aqreqasiyasini t?min edib vahid virtual kanal yaratmaq üçün
+D) Multylayer switch-i L2 s?viyy?d?n L3 s?viyy?y? keçirm?k üçün
+E) Multylayer switch-l? Router arasinda virtual kanal yaratmaq üçün
+
+68. Cisco cihazlarinda neç? standart vty x?tti (line vty) default olaraq mövcuddur?
+A) 5
+B) 20
+C) 1
+D) 10
+E) 4
+
+69. S?b?k? cihazini m?saf?d?n idar?etm?ni t?min etm?k m?qs?dil? hansi protokolun ayarlanmasi üçün ona mütl?q domen adi verilm?lidir?
+A) ssh
+B) telnet v? ya ssh
+C) telnet
+D) consol
+E) hamisi
+
+70. Cisco switch-d? m?saf?d?n idar?etm?ni ayarlamaq üçün n? edilir?
+A) VLAN interface -i yaradilir v? VLAN interface-in? IP parametrl?r t?yin olunur.
+B) Fiziki interface-d? access mode, IP ünvan, Sabnet Mask v? Default Gatway t?yin olunur
+C) Switch-in ARP c?dv?lin? daxili MAC ünvanina uygun interface-in IP ünvani qeyd edilir 
+D) Idar?etm? interface-d? traunk mode, IP ünvan, Sabnet Mask v? Default Gateay t?yin olunur
+E) Konsol portuna IP v? MAC ünvanlar t?yin edilir v? idar?etm? s?b?k?sin? qosulur
+
+71. S?b?k? qurgusuna m?saf?d?n qosulma zamani telnet v? ssh protokollarinin h?r ikisind?n istifad? imkani ?ld? etm?k üçün hansi ?mr yazilir?
+A) transport input all 
+B) transport input ssh and telnet
+C) transport input ssh, telnet
+D) transport input ssh
+E) transport input console
+
+72. H?r hansi bir Cisco cihazinda hansi ?mr s?hv daxil edilib?
+A) switchport mode access vlan 100
+B) crypto key generate rsa
+C) vtp mode client
+D) ip domain-name cisco.com
+E) crypto isakmp policy 10
+
+73. H?r hansi bir Cisco cihazinda hansi ?mr dogru daxil edilib?
+A) transport input ssh
+B) hosname aaa 1
+C) admin username secret admin
+D) local login
+E) line 0 vty
+
+74. M?lumatin eyni anda VLAN daxilind? bütün cihazlara ötürülm?sini t?min ed?n ünvanlanma üsulu nec? adlanir?  
+A) Broadcast
+B) Multicast
+C) Unicast
+D) Anycast
+E) Allcast
+
+75. M?lumatin eyni anda yalniz mü?yy?n cihazlara ötürülm?sini t?min ed?n ünvanlanma üsulu nec? adlanir? 
+A) Multicast
+B) Unicast
+C) Broadcast
+D) Anycast
+E) Allcast
+
+76.  Hansi ünvanlanma üsulu nöqt?d?n nöqt?y? m?lumat ötürülm?sini t?min edir? 
+A) Unicast
+B) Multicast
+C) Broadcast
+D) Anycast
+E) Allcast
+
+77.  "Known unicast frame" daxil olduqda switch-d? n? bas verir?
+A) Frame "Destination MAC address"-? müvafiq portdan xaric edilir
+B) Frame "Source MAC address"-? müvafiq portdan xaric edilir
+C) Frame bütün aktiv portlardan xaric edilir
+D) Frame "drop" edilir
+E) Frame "MAC table"da qeyd? alinir
+
+78. Hansi "Casting" növl?rind? frame, daxil oldugu port istisna olmaqla, switch-in bütün aktiv portlarindan xaric edilir?
+A) Broadcast v? unknown unicast
+B) Yalniz broadcast
+C) Broadcast, known unicast v? multycast
+D) Unknown unicast
+E) Yalniz unknown unicast
+
+79. "Unknown unicast frame" daxil olduqda switch-d? n? bas verir?
+A) Frame, daxil oldugu port istisna olmaqla, bütün aktiv portlardan xaric edilir
+B) Frame "Destination MAC address"-? müvafiq portdan xaric edilir
+C) Frame "Source MAC address"-? müvafiq portdan xaric edilir
+D) Frame "drop" edilir
+E) Frame "MAC table"da qeyd? alinir
+
+80. Switch hansi halda "Unicast frame"i, daxil oldugu port istisna olmaqla, bütün aktiv portlardan xaric ed?c?k?
+A) MAC c?dv?ld? h?min frame-in "Destination MAC address" haqqinda m?lumat olmadiqda
+B) MAC c?dv?ld? h?min frame-in "Source MAC address" haqqinda m?lumat olmadiqda
+C) ARP c?dv?ld? h?min frame-in "Destination MAC address" haqqinda m?lumat olmadiqda
+D) Aktiv portlarin sayi qosulan kompüterl?rin sayindan çox olduqda
+E) Aktiv portlarin sayi qosulan kompüterl?rin sayindan az olduqda
+
+81. Hansi halda L3 cihazlar ARP sorgu gönd?rirl?r?
+A) Onun ARP c?dv?lind? "Destination" MAC ünvan haqqinda m?lumat olmadiqda
+B) Onun ARP c?dv?lind? "Destination" IP ünvan haqqinda m?lumat olmadiqda
+C) Onun ARP c?dv?lind? "Source" MAC ünvan haqqinda m?lumat olmadiqda
+D) Access switch-in MAC c?dv?lind? "Source MAC address" haqqinda m?lumat olmadiqda
+E) Access switch-in MAC c?dv?lind? "Destination MAC address" haqqinda m?lumat olmadiqda
+
+
+Switch interfaces
+82. Asagidaki ayarlardan hansini default olaraq Cisco Switch istehsalçisi t?r?find?n t?yin OLUNMAYIB?
+A) Interface VLAN-in IP ünvani
+B) Native VLAN ID
+C) Interfase-in VLAN ID
+D) Interace mode
+E) Interface status
+
+83. Asagidaki ayarlardan hansini Cisco Switch istehsalçisi t?r?find?n default olaraq "Auto" t?yin olunub?
+A) Speed, Duplex, MDI-X
+B) Duplex, native VLAN ID
+C) Speed, interfase-in VLAN ID
+D) Duplex, interace mode, native VLAN ID
+E) Speed, interface type
+
+84. S?kil 4.1-d? göst?ril?n s?b?k?d? switch-in bütün intefface-l?ri "Autonegotiation" modunda oldugunu n?z?r? alaraq, switch-in G0/1 intefface-in "Speed" v? "Duplex" nec? olacaq? 
+A) Speed: 10 Mbps, Duplex: "Half"
+B) Speed: 10 Mbps, Duplex: "Full"
+C) Speed: 100 Mbps, Duplex: "Half" v? "Duplex Mismatch" x?tasi bas ver?c?k
+D) Speed: 1 Mbps, Duplex: "Half" v? "Duplex Mismatch" x?tasi bas ver?c?k
+E) Speed: 1 Mbps, Duplex: "Full"
+
+85. S?kil 4.1-d? göst?ril?n s?b?k?d? switch-in bütün intefface-l?ri "Autonegotiation" modunda oldugunu n?z?r? alaraq, switch-in G0/2 intefface-in "Speed" v? "Duplex" nec? olacaq? 
+A) Speed: 1000 Mbps, Duplex: "Full"
+B) Speed: 10 Mbps, Duplex: "Full"
+C) Speed: 100 Mbps, Duplex: "Half" v? "Duplex Mismatch" x?tasi bas ver?c?k
+D) Speed: 10 Mbps, Duplex: "Half" v? "Duplex Mismatch" x?tasi bas ver?c?k
+E) Portlar uzlasmayacaq v? "Mismatch" x?tasi bas ver?c?k
+
+86. S?kil 4.1-d? göst?ril?n s?b?k?d? switch-in bütün intefface-l?ri "Autonegotiation" modunda oldugunu n?z?r? alaraq, switch-in G0/3 intefface-in "Speed" v? "Duplex" nec? olacaq? 
+A) Speed: 100 Mbps, Duplex: "Half" v? "Duplex Mismatch" x?tasi bas ver?c?k
+B) Speed: 1000 Mbps, Duplex: "Full"
+C) Speed: 1000 Mbps, Duplex: "Half"
+D) Speed: 100 Mbps, Duplex: "Full" v? "Duplex Mismatch" x?tasi bas ver?c?k
+E) Speed: 10 Mbps, Duplex: "Half"
+
+
+
+
+
+S?kil 4.1
+
+87. S?kil 4.2-d? göst?ril?n s?b?k?d? neç? LAN, neç? Broadcast Domain (BD) v? neç? Collision Domain (CD) var?
+A) LAN: 3, BD: 5, CD: 8
+B) LAN: 6, BD: 11, CD: 4
+C) LAN: 6, BD: 11, CD: 8
+D) LAN: 3, BD: 5, CD: 4
+E) LAN: 3, BD: 11, CD: 8
+
+
+88. SW1 switch-i SW2 switch-l? avtomatik uzlasmani h?yata keçirm?y? c?hd edir, SW2-nin interface-ind? "Autonegotiation" disable, sür?t 100Mbps v? "full duplex" ayarlari t?yin olunarsa SW1-in interface-i hansi ayarlari q?bul ed?r?
+A) Speed: 100Mbps, Duplex: Half v? "duplex mismatch" x?tasi bas ver?rir, m?hsuldarliq azalir
+B) Speed: 100Mbps, Duplex: Full v? avromatik uzlasma h?yata keçirilir, m?hsuldarliq azalir
+C) Speed: 100Mbps, Duplex: Simplex v? "duplex mismatch" x?tasi bas ver?rir
+D) Speed: 10Mbps, Duplex: Half v? "duplex mismatch" x?tasi bas ver?rir, m?hsuldarliq azalir
+E) Avtomatik uzlasma h?yata keçmir, interface-l?r aktivl?smir v? m?lumat axini bas tutmur
+
+89. Qarsiliqli ?laq?d? olan switchl?rd? "Auto negotiation" modu aktiv deyils? v? portlar arasinda "duplex mismatch" x?tasi bas ver?rs? hansi arzu olunmaz hadis? yaranar?
+A) Collision
+B) IP toqqusma
+C) Loop
+D) Flood
+E) Loop v? Flood
+
+90. "Half-duplex" modunda olan interfacel?rd? "collision"u askar etm?k v? ondan qacinmaq üçün n? istifad? edilir?
+A) CSMA/CD
+B) CSMA/CA
+C) Autonegotiation
+D) Duplex Auto
+E) Speed Auto
+
+91. Hansi komanda interface-d? askar olunan x?talari göst?rir?
+A) Show interfaces
+B) Show interface brief
+C) Show interfaces status
+D) Show interfaces errors
+E) Show ip interfaces errors
+
+92. S?b?k? interface-ind? hansi x?ta növl?ri bas ver? bil?r?
+A) Runts, Giants, CRC, Frame
+B) Shorts, Longs, Oversizes, frame
+C) Packets, Bytes, Inputs, Outputs
+D) Runts, Packets, Oversizes
+E) Outputs, Giants, Broadcasts, Frame 
+
+93. Hansi x?ta növü minimal internet frame ölçüsünd?n (64 MB) qisa h?cmli q?bul olumus frame-l?rin sayini göst?rir?
+A) Runts
+B) Giants
+C) CRC
+D) Smoler Format
+E) Less Format
+
+94. Hansi x?ta növü maksimal internet frame ölçüsünd?n (1518 MB) böyük h?cmli q?bul olumus frame-l?rin sayini göst?rir?
+A) Giants
+B) Runts
+C) CRC
+D) Bigger Format
+E) Longer Format
+
+95. Hansi x?ta növü t?rkibi dogru olmayan frame-l?rin sayini göst?rir?
+A) CRC
+B) Giants
+C) Runts
+D) Format
+E) Inputs
+
+96. Hansi x?ta növünd? formati dogru olmayan frame-l?rin sayini göst?rir?
+A) Format
+B) CRC
+C) Giants
+D) Runts
+E) Inputs
+
+97. Lokal s?b?k?d? hansi mesaj switch t?r?find?n broadcast domeynd? olan bütün hostlara gönd?rilir?
+A) ARP request, DHCP request v? DHCP discovery
+B) ARP reply v? DHCP request
+C) ARP request, ICMP echo request v? DHCP discovery
+D) ICMP reply v? ICMP echo request
+E) ARP request v? ICMP echo request
+
+
+
+
+98. Lokal s?b?k?d? hansi mesajlar unicast ünvanlandirilir?
+A) ICMP echo request, ICMP reply v? ARP reply
+B) ICMP reply v? ARP reply
+C) ARP request v? DHCP discovery
+D) ARP request, DHCP request v? ICMP echo request
+F) ARP request v? ICMP reply
+
+99. CISCO switch-d? show mac-address-table ?mri il? hansi növ bilgil?r t?qdim olunur?
+A) VLAN, qosulan cihazin MAC ünvani, MAC ünvanin t?yin olunma üsulu, port nömr?si
+B) VLAN, switch-in öz portunun MAC ünvani v? port nömr?si, IP ünvan 
+C) Qosulan cihazin öz portunun MAC ünvanlari, MAC ünvanin t?yin olunma üsulu, port nömr?si
+D) Qosulan cihazin MAC v? IP ünvanlari, ünvanlarin t?yin olunma üsulu, port nömr?si
+E) Fiziki v? M?ntiqi ünvanlar, VLAN ID, port nömr?si
+
+100. CISCO switch-in MAC (CAM) c?dv?li haqqinda sadalanan ifad?l?rd?n hansi dogrudur?
+A) MAC (CAM) c?dv?ld? dinamik mü?yy?n olunan bilgil?r vaxtasiri yenil?nir v? switch söndürül?nd? silinir, statik t?yin olunan bilgil?r is? daim yadda saxlanilir
+B) MAC (CAM) c?dv?ld? host haqqinda statik t?yin olunan bilgil?r port qapadilanda (shutdown) d?rhal silinir, dinamik mü?yy?n olunan bilgil?r is? "startup configuration" faylina yazilir
+C) MAC (CAM) c?dv?ld? host haqqinda statik t?yin olunan bilgil?r switch qapadilanda (switch off) d?rhal silinir, dinamik mü?yy?n olunan bilgil?r is? "startup configuration" faylina yazilir
+D) MAC (CAM) c?dv?ld? bilgil?r t?yin olunma üsulundan asili olmadan yalniz switch-in f?aliyy?t zamani saxlanilir
+E) MAC (CAM) c?dv?ld? statik v? dinamik t?yin olunan IP v? MAC ünvanlar daim saxlanilir
+
+101. CISCO switch-d? ötürül?n Ethernet framel?ri haqqinda sadalanan ifad?l?rd?n hansi dogrudur?
+A) source v? destination MAC ünvanlarini d?yismir
+B) source MAC ünvani interface-in MAC ünvani il? ?v?zl?nir
+C) destination MAC ünvani qarsi switch-in daxili MAC ünvani il? ?v?zl?nir
+D) destination MAC ünvanini qarsi switch-in interface-inin MAC ünvani il? ?v?zl?yir
+E) source MAC ünvani interface-in MAC ünvani il?, destination MAC ünvani is? qarsi switch-in daxili MAC ünvani il? ?v?zl?nir
+
+102. CISCO switch-d? hostun MAC ünvani hansi halda MAC c?dv?ld? saxlanilir?
+A) interface-? ARP request, ARP reply, ICMP echo request, ICMP reply frame-l?ri daxil olanda
+B) host interface-? qosulan anda
+C) interface listening m?rh?l?sind? ARP request v? ICMP echo request frame-l?ri daxil olanda
+D) müvafiq ayarlar olduqda v? host interface-? qosulan anda
+E) avtomatik bas verir 
+
+103. CISCO switch-in MAC c?dv?lind? ona qosulan dig?r CISCO switch-in hansi MAC ünvanini v? hansi halda saxlanilir?
+A) qosulan interface-in MAC ünvani v? ondan ilk CDP paketi aldiqda
+B) daxili MAC ünvani v? interface-? ARP request v? ya ARP reply paketl?ri daxil olanda
+C) qosulan interface-in MAC ünvani v? ondan ilk ARP paketi daxil olanda
+D) qosulan switch-in daxili MAC ünvani v? ilk ICMP paketi daxil olanda
+E) qosulan switch-in heç bir MAC ünvani saxlanilmir
+
+
+
+
+104. Kompüterin MAC ünvani v? IP parametrl?rini öyr?nm?k üçün CMD p?nc?r?sind? hansi komanda istifad? olunur?
+A) ipconfig /all
+B) runmod - d
+C) ronmod - all
+D) mstsc
+E) ifconfig
+
+
+105. Sah?l?d?n hansi IPv4 basligina (header) aid deyil?
+A) Source and Destination MAC addresses
+B) Time to live (TTL)
+C) Source and Destination IP addresses
+D) Header Checksum
+E) Protocol 
+
+106. S?kil 5.1-d? IPv4 basliginda (header) "Version" sah?sinin t?yinati n?dir?
+A) Internet protokolunun nüvünü t?yin etm?k
+B) MTU versiyasini t?yin etm?k
+C) CRC versiyasini t?yin etm?k
+D) Fraqmentin versiyasini t?yin etm?k
+E) Identifikasiya versiyasini t?yin etm?k
+
+107. S?kil 5.1-d? IPv4 basliginda (header) IHL (Internet Header Length) sah?sinin t?yinati n?dir?
+A) IPv4 basliginin uzunlugunu göst?rir
+B) IP paketinin uzunlugunu göst?rir
+C) Payload-un uzunlugunu göst?rir
+D) Ethernet frame-in uzunlugunu göst?rir
+E) MAC ünvanin uzunlugunu göst?rir
+
+108. S?kil 5.1-d? IPv4 basliginda (header) hansi sah? QoS üçün istifad? olunur?
+A) DSCP (Differentiated Services Code Point)
+B) DHCP
+C) Time to live (TTL)
+D) IHL (Internet Header Length)
+E) Identification
+
+109. S?kil 5.1-d? IPv4 basliginda (header) hansi sah? IP paketinin uzunlugunu göst?rir?
+A) Total length
+B) Identification
+C) IHL (Internet Header Length)
+D) DSCP (Differentiated Services Code Point)
+E) Fragmentation
+
+110. S?kil 5.1-d? IPv4 basliginda (header) hansi sah? paketin fraqmentl?r? ayrilmasini bildirm?k üçün istifad? olunur? 
+A) Identification
+B) Total length
+C) IHL (Internet Header Length)
+D) DSCP (Differentiated Services Code Point)
+E) Fragmentation
+
+111. S?kil 5.1-d? IPv4 basliginda (header) hansi sah? fraqmentin (paketin t?rkibind?ki) mövqeyini bildirm?k üçün istifad? olunur? 
+A) Identification
+B) Total length
+C) IHL (Internet Header Length)
+D) DSCP (Differentiated Services Code Point)
+E) Fragmentation
+
+112. S?kil 5.1-d? IPv4 basliginda (header) hansi sah? L3 loop hadis?sinin qarsisini almaq üçün istifad? olunur?
+A) Time to live (TTL)
+B) DSCP (Differentiated Services Code Point)
+C) Delete loop
+D) IHL (Internet Header Length)
+E) Protect IP loop
+
+113. S?kil 5.1-d? IPv4 basliginda (header) hansi sah?nin qiym?ti 0 olarsa paket silinir (drop)?
+A) Time to live (TTL)
+B) DSCP (Differentiated Services Code Point)
+C) CRC
+D) IHL (Internet Header Length)
+E) Flag
+
+114. Internet frame-in maximal uzunlugu ad?t?n n? q?d?r olur?
+A) 1500 Bayt
+B) 1500 bit
+C) 65536 Bayt
+D) 65536 bit
+E) 4196 Bayt
+
+115. S?kil 5.1-d? hansi sah? IPv4 basliginda (header) bas ver? bil?c?k x?talari askar etm?k üçün istifad? olunur?
+A) Header Checksum
+B) CRC
+C) Time to live (TTL)
+D) Source and Destination IP addresses
+E) Protocol 
+
+
+116. 12 portluq Hub-da neç? broadcast v? neç? collision domenl?ri var?
+A) 1 broadcast domeni v? 1 collision domeni
+B) 12 broadcast domeni v? 12 collision domeni
+C) 12 broadcast domeni v? 1 collision domeni
+D) 1 broadcast domeni v? 12 collision domeni
+E) 1 broadcast domeni, collision domeni is? olmur
+
+117. 12 portluq switch-d? neç? broadcast v? neç? collision domenl?ri var?
+A) 1 broadcast domeni v? 12 collision domeni
+B) 12 broadcast domeni v? 12 collision domeni
+C) 12 broadcast domeni v? 1 collision domeni
+D) 1 broadcast domeni v? 1 collision domeni
+E) 1 broadcast domeni, collision domeni is? olmur
+
+
+
+118. Hansi s?b?k? cihazi collision domenini m?hdudlasdirmaq üçün t?yin olunub?
+A) Bridge
+B) Hub 
+C) Bridge v? Hub
+D) Router v? Hub 
+E) Switch v? Hub 
+
+119. Hansi s?b?k? cihazi broadcast domenini m?hdudlasdirmaq üçün t?yin olunub?
+A) Router
+B) Bridge
+C) Hub
+D) Bridge v? Hub
+E) Switch v? Hub
+
+120. Cisco Router il? Cisco L3 switch-in ?sas f?rqi n?dir?
+A) L3 switch -d? subinterface yaratmaq mümkün deyil
+B) Routerd? subinterface yaratmaq mümkün deyil
+C) L3 switch-d? routing prosesi isl?mir
+D) Routerd? routing prosesi isl?mir
+E) Router v? L3 switch-in heç bir f?rqi yoxdur
+
+121. Cisco Switch 2960-da bir fiziki interface-? eyni zamanda neç? VLAN t?hkim etm?k olar?
+A) 1 data VLAN-i v? 1 voice (s?s) VLAN-i
+B) Yalniz 1 data VLAN-i
+C) Bütün standart VLAN-lari
+D) Yalniz 1 voice (s?s) VLAN-i
+E) Yalniz VLAN 1
+
+122. S?b?k?l?rarasi m?lumat mübadil?sini t?min etm?k üçün hansi cihaz istifad? oluna bil?r?
+   A)	Router, Firewall v? ya L3 Switch
+   B)	Router v? Firewall
+   C)	L3 v? ya L2 Switch
+   D)	Router, Bridge v? ya Hub
+   E)	Router, Firewall v? ya Bridge
+
+123. Müxt?lif VLAN-lara m?xsus böyük sayda host-lari s?b?k?y? qosmaq üçün ad?t?n hansi cihaz istifad? olunur?
+A)	L2 Switch
+B)	Firewall
+C)	L3 Switch
+D)	Bridge v? Hub
+E)	Router 
+
+124. S?b?k?y? daxil v? oradan xaric olan axini monitorinq v? n?zar?t etm?k üçün ad?t?n hansi cihaz istifad? olunur?
+A)	Firewall
+B)	Router
+C)	L3 Switch
+D)	Bridge v? Hub
+E)	Switch v? Hub
+
+125. LAN daxilind? müxt?lif VLAN-lar arasinda m?lumat mübadil?sini t?min etm?k üçün ad?t?n hansi cihazlar istifad? olunur?
+   A)	L3 Switch 
+   B)	Router v? ya L2 Switch
+   C)	Firewall
+   D)	Bridge v? Hub
+   E)	Switch v? Hub
+
+126. S?b?k?d? basqa s?b?k? avadanliqlarindan xidm?t alan cihazlar nec? adlanir?
+A) Client
+B) Server
+C) Host
+D) Node
+E) LAN
+
+   127. S?b?k?d? basqa s?b?k? avadanliqlari üçün müxt?lif funksiyalar yerin? yetir?n v? müxt?lif xidm?t göst?r?n cihazlarlar nec? adlanir?
+A) Server
+B) Client
+C) Host
+D) Node
+E) LAN
+
+128. Son istifad?çi kompüterind? proqram s?klind? f?aliyy?t göst?r?n qoruma divari (firewall) nec? adlanir?
+A) a host-based firewall
+B) a network firewall
+C) a next-level firewall
+D) a top-layer firewall
+E) a developed firewall
+
+129. M?lumat axininin qabaqcil süzg?cl?m? imkanlarina malik firewall nec? adlanir? 
+A) a next-generation firewall
+B) a host-based firewall
+C) a network firewall
+D) a top-layer firewall
+E) a developed firewall
+
+7) Protokollar v? TCP/UDP portlari
+130. Hansi protokol h?d?f hostun (destination) MAC ünvanini öyr?nm?k üçün t?yin olunub?
+A) ARP
+B) MAC
+C) DNS
+D) DHCP
+E) POP3
+
+131. S?b?k? cihazi hansi halda "ARP reqest" sorgusunu gönd?rir?
+A) ARP c?dv?lind? "Destination MAC address" haqqinda qeydiyyat olmayanda
+B) ARP c?dv?lind? "Source MAC address" haqqinda qeydiyyat olmayanda
+C) ARP c?dv?lind? "Destination IP address" haqqinda qeydiyyat olmayanda
+D) MAC c?dv?lind? "Source MAC address" haqqinda qeydiyyat olmayanda
+E) MAC c?dv?lind? "Destination MAC address" haqqinda qeydiyyat olmayanda
+
+132. Asagidakilardan hansi Cisco-ya aid qonsu cihazlarin k?sfi protokoludur?
+A) CDP
+B) CGMP
+C) ICMP
+D) IGMP
+E) LLDP
+
+133. Asagidaki xidm?tl?rd?n hansi h?m TCP, h?m d? UDP protocollarindan istifad? edir?
+A) DNS
+B) FTP
+C) TFTP
+D) SSH
+E) Telnet
+
+134. Hansi protokol paketl?rin dogru ünvana çatmasini t?min edir?
+A) IP
+B) UDP
+C) TCP
+D) HTTP
+E) DHCP 
+
+135. Hansi protokol hostlara IP ünvanlarin avtomatik verilm?sini t?min edir?
+A) DHCP 
+B) IP
+C) UDP
+D) TCP
+E) HTTP
+
+136. Hansi protokol böyük m?tnl?rin ötürülm?sini t?min edir?
+   A) HTTP
+   B) DHCP 
+   C) IP
+   D) UDP
+   E) TCP
+
+137. Hansi protokol file mübadil?sini t?min edir?
+   A) FTP
+   B) HTTP
+   C) DHCP 
+   D) IP/TCP
+   E) IP/UDP
+
+138. Hansi protokol paketl?rin h?d?f ünvana t?hrifsiz çatmasini t?min edir?
+A) TCP
+B) IP
+C) UDP
+D) HTTP
+E) DHCP 
+
+
+
+8) Spaning Tree
+139. SW(config)#spanning-tree mode rapid-pvst  ?mri hansi m?qs?dl? daxil edilir?
+A) ?sas kanal itirildikd? ehtiyat kanallara keçidi sür?tl?ndirm?k üçün
+B) Trunk portlari arasinda STP protokolunu is? salmaq üçün
+C) Root bridge switch-i, h?mçinin designated v? route portlari statik t?yin etm?k üçün
+D) Router-l?r arasinda STP protokolunu is? salmaq üçün
+E) ?sas v? ehtiyat STP kanallarini statik t?yin etm?k üçün
+
+140. SW(config)#spanning-tree portfast default ?mri hansi portlara aidir?
+A) Bütün access portlara
+B) Bütün trunk portlara
+C) Mode-undan asili olmadan h?r bir porta
+D) Yalniz dinamic auto portlara
+E) Yalniz seçilmis access portlara
+
+141. SW(config-if)#spanning-tree portfast ?mri hansi portlara aiddir?
+A) Yalniz seçilmis access portlara
+B) Yalniz seçilmis trunk portlara
+C) Mode-undan asili olmadan h?r bir porta
+D) Yalniz dinamic auto portlara
+E) Yalniz seçilmis accsess v? trunk portlara
+
+142. SW(config-if)#spanning-tree portfast trunk  ?mri hansi portlara aiddir?   
+A) Mode-undan asili olmadan seçilmis bütün portlara
+B) Yalniz seçilmis access portlara
+C) Yalniz seçilmis trunk portlara
+D) Yalniz dinamic auto portlara
+E) bütün accsess v? trunk portlara
+
+143. Switch-in portfast portuna STP d?st?kl?y?n dig?r switch-l?rin qosulmasini m?hdudlasdirmaq üçün ona hansi ?mr daxil edilir?
+A) SW(config-if)#spanning-tree bpduguard enable  
+B) SW(config-if)#spanning-tree bpduguard disable  
+C) SW(config-if)#spanning-tree guard root  
+D) SW(config-if)#spanning-tree port security   
+E) SW(config-if)#spanning-tree port protected   
+
+
+
+
+
+
+
+
+
+
+
+
+144. STP topologiyasinda VLAN 1 üçün SW1 ?sas v? SW2 ehtiyat root bridge rollarinda t?yin etm?k m?qs?dil? hansi ?mrl?r daxil edilir?
+A) SW1(config)#spanning-tree vlan 1 root primary                                                    SW2(config)#spanning-tree vlan 1 root secondary 
+B) SW1(config)#spanning-tree vlan 1 priority primary                                                    SW2(config)#spanning-tree vlan 1 priority secondary 
+C) SW1(config)#spanning-tree vlan 1 priority 4096                                                    SW2(config)#spanning-tree vlan 1 priority 8192
+D) SW1(config)#spanning-tree first priority                                                      SW2(config)#spanning-tree second priority 
+E) SW1(config)#spanning-tree primary root bridge                                                    SW2(config)#spanning-tree secondary root bridge 
+
+145. Hansi cavabda STP topologiyasinda switch-? "priority" d?y?ri t?yin ed?n ?mr dogru yazilib? 
+A) SW(config)#spanning-tree vlan 1 priority 28672                                                    
+B) SW(config)#spanning-tree vlan 1 root bridge 4096                                                    
+C) SW(config)#spanning-tree root bridge priority 4096                                                    
+D) SW(config)#spanning-tree vlan 1 root bridge priority 22396
+E) SW(config)#spanning-tree vlan 1 priority 22396                                                    
+
+146. STP topologiyasinda, administrative "Root Bridge" t?yin olunmus, switch-? priority d?y?ri asagi olan k?nar switch-l?rin qosulmasini m?hdudlasdirmaq üçün hansi ?mr yazilir? 
+A) SW(config-if)#spanning-tree guard root                                                    
+B) SW(config-if)#spanning-tree vlan 1 root bridge 0                                                   
+C) SW(config-if)#spanning-tree root guard priority 4096                                                    
+D) SW(config-if)#spanning-tree vlan 1 root bridge priority 22396
+E) SW(config-if)#spanning-tree guard priority 0
+                                      
+147. S?kil 8.1-d? göst?ril?n STP topologiyasinda hansi switch "Root Bridge" seçil?c?k?
+A) SW3
+B) SW1
+C) SW2
+D) SW4
+E) T?yin etm?k mümkün deyil
+
+148. S?kil 8.1-d? göst?ril?n STP topologiyasinda hansi portlar "Designated" rolunda olacaq?
+A) SW1: G0/2;   SW2: G0/0;   SW3: G0/0 v? G0/1
+B) SW1: G0/2;   SW2: G0/0;   SW3: G0/0 v? G0/1;   SW4: G0/0
+C) SW1: G0/1;   SW2: G0/1;   SW3: G0/0 v? G0/1;   SW4: G0/1
+D) SW1: G0/2;   SW2: G0/1;   SW3: G0/0 v? G0/1;   
+E) SW1: G0/1;   SW2: G0/1 v? G0/2;   SW3: G0/0;   SW4: G0/1
+
+149. S?kil 8.1-d? göst?ril?n STP topologiyasinda hansi portlar "Root" rolunda olacaq?
+A) SW1: G0/1;   SW2: G0/1;   SW4: G0/0
+B) SW1: G0/2;   SW2: G0/0;   SW4: G0/0
+C) SW1: G0/1;   SW2: G0/1;   SW3: G0/0;   SW4: G0/1
+D) SW1: G0/2;   SW2: G0/1;   SW3: G0/0 v? G0/1;   
+E) SW1: G0/1;   SW2: G0/0;   SW3: G0/0;   SW4: G0/0
+
+150. S?kil 8.2-d? göst?ril?n STP topologiyasinda hansi switch "Root Bridge" seçil?c?k?
+A) SW3
+B) SW1
+C) SW2
+D) SW4
+E) T?yin etm?k mümkün deyil
+
+151. S?kil 8.2-d? göst?ril?n STP topologiyasinda hansi portlar "Designated" rolunda olacaq?
+A) SW1: G0/0 v? G0/2;   SW2: G0/0;   SW3: G0/0 v? G0/1
+B) SW1: G0/2;   SW2: G0/0;   SW3: G0/0 v? G0/1;   SW4: G0/0
+C) SW1: G0/0 v? G0/1;   SW2: G0/1;   SW3: G0/0 v? G0/1;   SW4: G0/1
+D) SW1: G0/0 v? G0/2;   SW2: G0/1;   SW3: G0/0 v? G0/1;   
+E) SW1: G0/1;   SW2: G0/1 v? G0/2;   SW3: G0/0 v? G0/1;   SW4: G0/1
+
+152. S?kil 8.2-d? göst?ril?n STP topologiyasinda hansi portlar "Root" rolunda olacaq?
+A) SW1: G0/1;   SW2: G0/2;   SW4: G0/0
+B) SW1: G0/2;   SW2: G0/0;   SW4: G0/0
+C) SW1: G0/1;   SW2: G0/1;   SW3: G0/0;   SW4: G0/1
+D) SW1: G0/2;   SW2: G0/1;   SW3: G0/0 v? G0/1;   
+E) SW1: G0/1;   SW2: G0/2;   SW3: G0/0;   SW4: G0/0
+
+153. S?kil 8.3-d? göst?ril?n STP topologiyasinda hansi switch "Root bridge" seçil?c?k?
+A) SW4
+B) SW3
+C) SW1
+D) SW2
+E) T?yin etm?k mümkün deyil
+
+154. S?kil 8.3-d? göst?ril?n STP topologiyasinda hansi portlar "Designated" rolunda olacaq?
+A) SW2: Fa1/0 v? Fa2/0;   SW3: G0/0; SW4: G0/0, G0/1 v? G0/2;
+B) SW1: Fa1/0 v? Fa2/0;   SW2: G0/1v? G0/2;   SW3: G0/0 v? G0/1;   SW4: G0/0, G0/1 v? G0/2;
+C) SW1: G0/1;   SW2: G0/1;   SW3: G0/0 v? G0/1;   SW4: G0/0, G0/1 v? G0/2;
+D) SW1: G0/01;   SW2: G0/1;   SW3: G0/0 v? G0/1; G0/0, G0/1 v? G0/2;  
+E) SW1: G0/1;   SW2: G0/1 v? G0/2;   SW3: G0/0 v? G0/1;   SW4: G0/1
+
+155. S?kil 8.3-d? göst?ril?n STP topologiyasinda hansi portlar root rolunda olacaq?
+A) SW1: G0/1;   SW2: G0/0;   SW3: G01
+B) SW1: Fa1/0 v? Fa2/0;   SW2: G0/1;   SW3: G0/1
+C) SW1: G0/1;   SW2: G0/1;   SW3: G0/0;   SW4: G0/1
+D) SW1: G0/01;   SW2: G0/1;   SW3: G0/0 v? G0/1; G0/0, G0/1 v? G0/2;  
+E) SW1: G0/1;   SW2: G0/1 v? G0/2;   SW3: G0/0 v? G0/1
+
+
+
+156. Asagidaki cavablardan hansilar Normal (standart) VLAN-lardir v? yerl?sm? yerl?ri düzgün qeyd olunmusdur?
+A) 1-1005, vlan.dat
+B) 2-1001, vlan.txt
+C) 1-1005, vlan.txt
+D) 1006-4094, vlan.dat
+E) 2-1002, vlan.dat
+
+157.  Asagidaki VLAN-lardan hansilar silin?, yenid?n yaradila, adlandirila v? d?yisdiril? bilm?z?
+A) 1, 1002-1005
+B) 1, 1001-1005
+C) 2-1001
+D) 1-4094
+E) 1-1001
+
+158.  Hansi ?mr s?hv t?rtib edilib?
+A) SW(config-if)#switchport mode trunk allowed vlan 10 
+B) SW(config-if)#switchport mode access
+C) SW(config-if)#switchport access vlan 20
+D) SW(config-if)#switchport mode trunk
+E) SW(config-if)#switchport trunk encapsulation dot1q
+
+159.  Hansi ?mr dogru t?rtib edilib?
+A) SW(config-if)#switchport trunk allowed vlan 10
+B) SW(config-if)#switchport mode trunk allowed vlan 10
+C) SW(config-if)#switchport access allowed vlan 10
+D) SW(config-if)#switchport mode trunk vlan 10
+E) SW(config-if)#switchport encapsulation dot1q
+
+160.  Yalniz Cisco Switch-l?r? m?xsus trunk mode standarti hansidir?
+A) ISL
+B) 802.1Q
+C) 812.1Q
+D) ISL v? 802.1Q
+E) 802.1Q v? 812.1Q
+
+161.  Bütün vendorlara m?xsus switch-l?rin d?st?kl?diyi trunk mode standarti hansidir?
+A) 802.1Q
+B) 812.1Q
+C) ISL 
+D) ISL v? 802.1Q
+E) 802.1Q v? 812.1Q
+
+162.  Cisco Switch-in h?r hansi portuna t?hkim edilmis VLAN ID "no vlan <ID>" ?mri il? silin?rs? n? bas ver?r? H?min port ...
+A) heç bir VLAN-a t?hkim olunmayacaq
+B) default VLAN 1 v?ziyy?tin? qayidar
+C) növb?ti VLAN ID-y? t?hkim olunacaq
+D) shutdown v?ziyy?tin? keç?c?k
+E) no shutdown v?ziyy?tin? keç?c?k
+
+163.  S?kil 9.1-d? gördüyünüz ?mrl?ri t?tbiq ets?k n? bas ver?r? FastEthernet 0/18 portu ....
+A) default VLAN v?ziyy?tin? qayidar
+B) VLAN 10-a t?hkim olunacaq
+C) administrative shutdown v?ziyy?tin? keç?c?k
+D) dinamik shutdown v?ziyy?tin? keç?c?k
+E) heç bir VLAN-a t?hkim olunmayacaq
+
+
+164.  S?kil 9.2-d? n? üçün VLAN 1010 yaratmaga icaz? verilmir?
+A) Switch vtp transparent mode ayarlanmadigina gör?
+B) Switch default olaraq vtp client mode-da olduguna gör?
+C) Extended VLAN-lar yalniz vtp server mode-da çalisdigina gör?
+D) Extended VLAN-lar yalniz vtp client mode-da çalisdigina gör?
+E) Extended VLAN-lar yalniz vtp server mode-da çalismadigina gör?
+
+
+165.  Bir switch port vasit?si il? VLAN 10-da data v? VLAN 50-d? s?s ötürm?k üçün asagidakilardan hansi ayarlama düzgündür?
+
+A) SW(config-if)#switchport mode access 
+SW(config-if)#switchport access vlan 10 
+SW(config-if)#switchport voice vlan 50
+ 
+B) SW(config-if)#switchport mode trunk 
+SW(config-if)#switchport access vlan 10 
+SW(config-if)#switchport voice vlan 50
+
+C) SW(config-if)#switchport mode trunk 
+SW(config-if)#switchport access vlan 10 
+SW(config-if)#switchport voip vlan 50
+
+D) SW(config-if)#switchport mode access 
+SW(config-if)#switchport access vlan 10 
+SW(config-if)#switchport voip vlan 50
+
+E) SW(config-if)#switchport mode access 
+SW(config-if)#switchport access vlan 10 and voice vlan 50
+
+
+
+
+
+
+
+
+
+
+
+
+166.  Switch-in "Trunk mode"unda olan interface-i il? uzlasmani t?min etm?k üçün routerd? hansi ?mrl?r yazilir, m?s?l?n VLAN 10 üçün?
+A) 
+Router(config-if)#interface gigabitEthernet 0/1.10
+Router(config-subif)#encapsulation dot1Q 10
+B) 
+Router(config-if)#interface VLAN  0/1.10
+Router(config-subif)# switchport mode access 
+Router(config-subif)# switchport access VLAN 10
+C) 
+Router(config-if)#interface gigabitEthernet 0/1 VLAN 10
+Router(config-subif)#encapsulation trunk port
+D) 
+Router(config-if)#interface gigabitEthernet 0/1 VLAN 10
+Router(config-subif)# switchport mode trunk 
+E) 
+Router(config-if)#interface VLAN 10
+Router(config-subif)# switchport mode trunk 
+
+167. Yalniz CISCO sirk?tin? m?xsus switch-in d?st?kl?diyi "Link aggregation" protokolu hansidir?
+A) PAgP 
+B) LACP
+C) PAgP v? LACP
+D) PPACP
+E) DHCP
+
+168. "Link aggregation" ayarlari aparilmasi üçün qrupa daxil olan interface-l?rin hansi parametrl?ri eyni olmasi t?tl?b olunmur?                  
+A) Nömr? ardicilligi
+B) VLAN ID
+C) Port speed
+D) Port mode
+E) Channel-group
+
+169. Hansi Channel-group mode ayarlarinda switch-l?r arasinda aqreqasiya (birl?sdiril?n) linki aktivl?s?c?k?
+ A) active-active v? active-passive
+ B) auto-auto v? active-passive
+ C) passive-passive v? active-active 
+ D) auto-auto v? active-passive
+ E) auto-auto
+
+170. S?kil 11.1-d? göst?ril?n "Routing Table"? ?sas?n 192.168.3.25 ünvanina gönd?ril?n paketl?ri router n? ed?c?k?
+A) Paketi öz interface-i üçün q?bul ed?c?k
+B) Paketi drop ed?c?k
+C) Paketi G0/2 interface-d?n xaric ed?c?k
+D) Paketi 192.168.3.0 s?b?k?sin? multicast üsulla gönd?r?c?k
+E) Paketi 192.168.3.0 s?b?k?sin? broadcast üsulla gönd?r?c?k
+
+171.  "Destination" ünvani m?lum olmayan paketl?ri router n? edir?
+A) drop edir
+B) öz interface-i üçün q?bul edir
+C) geri source ünvana gönd?rir
+D) multicast üsulla bütün interfeace-l?rd?n xaric edir
+E) broadcast üsulla bütün interfeace-l?rd?n xaric edir
+
+172. Routerin interface-in? IP ünvani t?yin olunda "Routing table"? hansi növ route-lar avtomatik ?lav? edilir? 
+A) L, C
+B) O, L
+C) E, O, R
+D) D, L
+E) L
+
+173. S?kil 11.2-d? göst?ril?n "Routing table"da hansi route-lar router 10.0.1.23 ünvanina yön?lmis paketl?tl?r üçün uygundur v? onlardan hansi daha spesifikdir? 
+A) Route-lar: 10.0.1.0/24 v? 10.0.1.23/32. Daha spesifik route: 10.0.1.23/32
+B) Route-lar: 10.0.1.0/24 v? 10.0.1.23/32. Daha spesifik route: 10.0.1.23/24
+C) Route-lar: 10.0.0.0/24 v? 10.0.0.23/24. Daha spesifik route: 10.0.1.23/32
+D) Route-lar: 10.0.1.23/32. Daha spesifik route: 10.0.1.23/32
+E) Route-lar: 10.0.1.0/24. Daha spesifik route: 10.0.1.23/24
+174. S?kil 11.3-d? göst?ril?n "Routing Table"?  ?sas?n 8.8.8.8 ünvanina ötürülmüs paket hansi interface-d?n xaric edil?c?k?
+A) G0/2
+B) G0/0
+C) G0/1
+D) Spesifik ünvan göst?rilm?diyind?n drop edil?c?k
+E) Spesifik ünvan göst?rilm?diyind?n broadcast olaraq bütün interface-l?rd?n xaric edil?c?k
+
+
+
+175.  S?kil 11.4-d? göst?ril?n v? "Statik routing" t?tbiq olunan s?b?k?d? PC1 v? PC4 kompüterl?rinin R2 üz?rind?n qarsiliqli ?laq?sini t?min etm?k üçün R1 routerind? mümkün "Static Route"lardan hansi dogru deyil.
+A) ip route 192.168.4.0  255.255.255.0   G0/0
+B) ip route 192.168.4.0  255.255.255.0  192.168.13.3
+C) ip route 192.168.4.0  255.255.255.0  G0/1
+D) ip route 192.168.4.0  255.255.255.0  G0/1 100
+E) ip route 192.168.4.0  255.255.255.0  192.168.13.3 100 
+
+176.  S?kil 11.4-d? göst?ril?n v? "Statik routing" t?tbiq olunan s?b?k?d? PC1 v? PC4 kompüterl?rinin R2 üz?rind?n qarsiliqli ?laq?sini t?min etm?k üçün R2 routerind? mümkün "Static Route"lardan hansi dogru deyil.
+A) ip route 192.168.4.0 255.255.255.0 192.168.12.1
+B) ip route 192.168.1.0 255.255.255.0 192.168.12.1
+C) ip route 192.168.4.0 255.255.255.0  G0/1
+D) ip route 192.168.4.0 255.255.255.0 192.168.24.4
+E) ip route 192.168.1.0 255.255.255.0 G0/0 100
+
+
+
+
+177. S?kil 11.4-d? göst?ril?n v? "Statik routing" t?tbiq olunan s?b?k?d? PC1 v? PC4 kompüterl?rinin R2 üz?rind?n qarsiliqli ?laq?sini t?min etm?k üçün R3 routerind? mümkün "Static Route"lardan hansi dogru deyil.
+A) ip route 192.168.4.0 255.255.255.0 G0/2
+B) ip route 192.168.1.0 255.255.255.0 192.168.24.2
+C) ip route 192.168.1.0 255.255.255.0  G0/0
+D) ip route 192.168.1.0 255.255.255.0 192.168.24.2  100
+E) ip route 192.168.1.0 255.255.255.0 G0/0 100
+
+178. S?kil 11.4-d? göst?ril?n s?b?k?d? R1 routeri üz?rind?n bütün alt s?b?k?l?r? keçidi t?min etm?k üçün onda neç? "Statik route"  yazilmalidir?
+A) 3
+B) 4
+C) 6
+D) 2
+E) 1
+
+179. S?kil 11.4-d? göst?ril?n s?b?k?d? R3 routeri üz?rind?n bütün alt s?b?k?l?r? keçidi t?min etm?k üçün onda neç? "Statik route"  yazilmalidir?
+A) 4
+B) 3
+C) 6
+D) 2
+E) 1
+
+
+
+
+180. ip route 192.168.4.0  255.255.255.0  192.168.13.3  100  ?mrind? "100" n?yi bildirir?
+A) Administrative distance
+B) Priority
+C) Interface Cost
+D) Reference bandwich
+E) VLAN ID 
+
+181.  ip route 192.168.4.0  255.255.255.0  192.168.13.3  100  ?mrind? "192.168.13.3" n?yi bildirir?
+A) Next hop IP address
+B) Next hop interface
+C) Destination IP address
+D) Source IP address
+E) Destination network
+
+182.  ip route 192.168.4.0  255.255.255.0  192.168.13.3  100  ?mrind? "192.168.4.0" n?yi bildirir?
+A) Destination network IP address
+B) Next hop IP address
+C) Source host IP address
+D) Source network IP address
+E) Destination host IP address 
+
+
+
+
+183. ip route 192.168.4.0  255.255.255.0  192.168.13.3  100  ?mrind? "255.255.255.0" n?yi bildirir?
+A) Destination network subnet mask
+B) Next hop subnet mask
+C) Destination host subnet mask
+D) Source subnet mask
+E) Destination host IP address
+
+184. ip route 192.168.4.0  255.255.255.0  Gig0/3  100  ?mrind? "Gig0/3" n?yi bildirir?
+A) Next hop interface
+B) Destination network interface
+C) Next hop network
+D) Destination host interface
+E) Source interface
+
+185. S?kil 11.5-d? göst?ril?n "Routing table"da s?kild?ki yazilisin yaranmasi üçün hansi ayarlama t?tbiq olunmaldir?
+
+A) ip route 172.20.0.0  255.255.0.0 G0/1
+B) ip address 172.20.0.0  255.255.0.0
+C) ip address 172.20.0.0  255.255.255.255
+D) ip route 172.20.0.0  255.255.0.0 192.168.1.10
+E) ip route 172.20.0.0  255.255.255.0 G0/1 192.168.1.10
+
+
+
+186. Multylayer switch-l?rd?  interface -l?r? IP ünvan nec? t?yin edilir? 
+A)  
+SW(config-if)#no switchport 
+SW(config-if)#ip address 192.168.1.254 255.255.255.0
+
+B) 
+SW(config-if)#ip route 
+SW(config-if)#ip address 192.168.1.254 255.255.255.0
+
+C) 
+SW(config-if)#ip address 192.168.1.254 255.255.255.0
+
+D) 
+   SW(config-if)#ip negotiation
+SW(config-if)#ip address 192.168.1.254 255.255.255.0
+
+E)  
+   SW(config-if)# switchport ip negotiation
+SW(config-if)#ip address 192.168.1.254 255.255.255.0
+
+187. Multylayer switch-l?rd?  interface -l?r arasinda IP paketl?ri yön?tm?k üçün routerl?rd?n f?rqli olaraq ?lav? hansi ?mr yazilir? 
+A) SW(config)#ip routing
+B) SW(config)#ip route
+C) SW(config)#ip route negotiation
+D) SW(config)#route negotiation
+E) SW(config)#route mach
+
+
+
+188. Multylayer switch-l?rd?  VLAN-lar arasinda yönl?ndirm?ni nec? t?min olunur?
+A) Portlar t?yin olunmus VLAN-a t?hkim edilir, VLAN interface-in? IP ünvan t?yin olunur  v? ip routing ?mri ?lav? edilir
+B) Portlara eyni alt s?b?k?y? m?xsus IP ünvanlar t?yin olunur  v? ip routing ?mri ?lav? edilir
+C) Portlar t?yin olunmus VLAN t?hkim edilir v?  VLAN interface-in? IP ünvan t?yin olunur 
+D) Portlara IP ünvan t?yin olunur  v? ip route ?mri ?lav? edilir
+E) Portlar t?yin olunmus VLAN t?hkim edilir v? no switchport ?mri yazilir, VLAN interface-in? IP ünvan t?yin olunur v? ip route ?mri ?lav? edilir
+
+189. Cisco cihazlarda "statik routing" üçün Administrative Distance (AD) neç?dir?
+A) 1
+B) 5
+C) 10
+D) 100
+E) 90
+
+190. Cisco Routerd? syslog serverini 10.10.10.20 olaraq nec? t?yin etm?k olar?
+A) logging host 10.10.10.20
+B) server 10.10.10.20 logging enable
+C) log-server 10.10.10.20
+D) server-id 10.10.10.20
+E) server 10.10.10.20 logging
+
+191. Router 172.16.10.0/24 s?b?k?sin? aparan yol haqqinda m?lumati f?rqli üsul v? protokollar vasit?si il? alarsa, yollardan hansi ?n yüks?k prioritet? malik olar?
+A) Interface -? bilavasit? qosulan 
+B) EIGRP protokolu ?sasinda mü?yy?n olunan 
+C) OSPF protokolu ?sasinda mü?yy?n olunan 
+D) "Static routing" ?sasinda mü?yy?n olunan 
+E) "Default route" ?sasinda mü?yy?n olunan 
+
+192. S?kil 11.6- da göst?ril?n s?b?k?d? 192.168.100.0/24 v? 192.168.200.0/24 alt s?b?k?l?ri arasinda ?laq? qurmaq üçün A v? B routerl?rin? yazilan ?mrl?rd?n hansi dogrudur?
+A) RoterA(config)# ip route 192.168.200.0  255.255.255.0  1.1.1.2                                  RoterB(config)# ip route 192.168.100.0  255.255.255.0  1.1.1.1
+B) RoterA(config)# ip route 192.168.200.0  255.255.255.0  1.1.1.1                                  RoterB(config)# ip route 192.168.100.0  255.255.255.0  1.1.1.2
+C) RoterA(config)# ip route 192.168.200.0  255.255.255.0  192.168.100.1                     RoterB(config)# ip route 192.168.100.0  255.255.255.0  192.168.200.1
+D) RoterA(config)# ip route 192.168.200.11/12  255.255.255.255  192.168.200.1                            RoterB(config)# ip route 192.168.100.11/12  255.255.255.255  192.168.100.1                            
+E) RoterA(config)# ip route 192.168.200.11/12  255.255.255.255  1.1.1.2                      RoterB(config)# ip route 192.168.100.11/12  255.255.255.255  1.1.1.1
+
+
+
+
+
+
+193. S?kil  11.6-da göst?ril?n s?b?k?d? 192.168.100.0/24 alt s?b?k?l?si v? 192.168.200.11/32 hostu arasinda ?laq? qurmaq üçün A v? B routerl?rin? yazilan ?mrl?rd?n hansi dogrudur?
+A) RoterA(config)# ip route 192.168.200.11  255.255.255.255  1.1.1.2                           RoterB(config)# ip route 192.168.100.0   255.255.255.0  1.1.1.1                                          
+B) RoterA(config)# ip route 192.168.200.0  255.255.255.0  1.1.1.2                                  RoterB(config)# ip route 192.168.100.0  255.255.255.0  1.1.1.1
+C) RoterA(config)# ip route 192.168.200.11  255.255.255.0  1.1.1.1                                RoterB(config)# ip route 192.168.100.0  255.255.255.0  1.1.1.2
+D) RoterA(config)# ip route 192.168.200.0  255.255.255.0  192.168.100.1                     RoterB(config)# ip route 192.168.100.0  255.255.255.0  192.168.200.1
+E) RoterA(config)# ip route 192.168.200.11  255.255.255.255  1.1.1.2                           RoterB(config)# ip route 192.168.100.11  255.255.255.255  1.1.1.1
+
+194. S?kil 11.6-da göst?ril?n s?b?k?d? 192.168.100.12/32 v? 192.168.200.12/32 host-lari arasinda ?laq? qurmaq üçün A v? B routerl?rin? yazilan dogru ?mrl?ri göst?rin.
+A) RoterA(config)# ip route 192.168.200.12  255.255.255.255  1.1.1.2                            RoterB(config)# ip route 192.168.100.12  255.255.255.255  1.1.1.1                                          
+B) RoterA(config)# ip route 192.168.200.12  255.255.255.0  1.1.1.2                                RoterB(config)# ip route 192.168.100.12  255.255.255.0  1.1.1.1
+C) RoterA(config)# ip route 192.168.200.11  255.255.255.0  1.1.1.1                               RoterB(config)# ip route 192.168.100.0   255.255.255.0  1.1.1.2
+D) RoterA(config)# ip route 192.168.200.12  255.255.255.255  192.168.100.1                RoterB(config)# ip route 192.168.100.12  255.255.255.255  192.168.200.1
+E) RoterA(config)# ip route 192.168.200.12  255.255.255.252  1.1.1.1                           RoterB(config)# ip route 192.168.100.12  255.255.255.252  1.1.1.2
+
+
+
+
+195. R1 router, source IP ünvani 192.168.214.20 v? destination IP ünvani 192.168.22.3 olan, IP paket q?bul edib.  S?kil 11.7-y? ?sas?n R1 routeri bu paketl? n? ed?c?k?
+A) Paket r?dd edil?c?k
+B) Paket S0/0 interface  üz?rind?n yönl?ndiril?c?k 
+C) Router paketi broadcast olaraq bütün ünvanlara ötür?c?k
+D) Paket Fa0/0 interface üz?rind?n yönl?ndiril?c?k 
+E) Paket birlavasit? hosta gönd?ril?c?k
+
+
+196. ip route 0.0.0.0  0.0.0.0  192.168.31.1   ?mrinin t?yinati n?dir?
+A) Daxili alt s?b?k?d?n xarici s?b?k?l?r? bir ?mrl? çixisini t?min etm?k üçün istifad? olunur 
+B) Routerd? VLAN-lar arsinda routinqi t?min etm?k üçün ilkin ?mr olaraq ?lav? edilir
+C) 192.168.31.1 IP ünvanina routinqi mü?yy?n edir
+D) Daxili s?b?k?nin bütün hostlarini 192.168.31.1 IP ünvanina yön?tm?k 
+E) xarici s?b?k?nin bütün hostlarini daxili alt s?b?k?l?r? ?lçatanligini t?min etm?k 
+
+
+
+
+
+
+197. Hansi yön?tm? (routing) üsulunda t?yin edil?n yönl?r (marsrutlar, route) s?b?k? inzibatçisi t?r?find?n (manual) konfiqurasiya edilir?
+A) Static routing
+B) Directly connected
+C) Default routing v? OSPF
+D) Dynamic routing
+E) Default v? Dynamic routing
+
+
+198.  Router destination hosta RIP, EIGRP, OSPF v? IS-IS protocollari vasit?si il? dörd f?rqli yolu mü?yy?n ed?rs?, hansi protocollar vasit?si il? öyr?nil?n yolu "Routing table"-na yazacaq? 
+A) Yalniz EIGRP
+B) Yalniz OSPF
+C) Yalniz RIP
+D) Yalniz IS-IS
+E) Hamisini
+
+199. Router destination hosta RIP protokolu vasit?si il? G0/1 interface-in? qosulan 10.0.0.1 IP ünvanli v? G0/2 interface-in? qosulan 10.0.0.2 IP ünvanli hostlar üz?rind?n iki (b?rab?r hop sayli) yol mü?yy?n ed?rs?, hansi yolu "Routing table"-na yazacaq? 
+A) H?r ikisini
+B) Heç birini
+C) 10.0.0.1 üz?rind?n
+D) 10.0.0.2 üz?rind?n
+E) Ikisind?n birini random olaraq
+
+200. S?kil 12.1-d? göst?ril?n "Routing table"-a ?sas?n 10.20.0.1 ünvanina gönd?ril?n paketi router hansi protokolu istifad? ed?r?k ötür?c?k?
+A) OSPF
+B) RIP
+C) Dinamic
+D) EIGRP
+E) Static
+
+
+201. S?kil 12.2-d? göst?ril?n v? OSPF protocol isl?y?n s?b?k?d? R1 routeri 192.168.4.0/24 ünvanina hansi "route" seç?c?k (Reference Bandwidth = 100 000 kbps)?
+A) eyni "cost" d?y?ri olduguna gör? via G0/0 v? via G0/1, "load balance" t?skil olacaq
+B) eyni "cost" d?y?ri olduguna gör? via G0/0 v? via G0/1, lakin "load balance" t?skil olunmayacaq
+C) yüks?k "cost" d?y?ri olduguna gör? yalniz G0/0
+D) asagi "cost" d?y?ri olduguna gör? yalniz G0/0
+E) asagi "cost" d?y?ri olduguna gör? yalniz G0/1
+
+
+
+
+
+
+202. S?kil 12.2-d? göst?ril?n v? OSPF protocol isl?y?n s?b?k?d? R1 routeri 192.168.4.0/24 ünvanina hansi "route" seç?c?k (Reference Bandwidth = 1000 000 kbps)?
+A) daha asagi "cost" d?y?ri olduguna gör? yalniz via G0/0, "load balance" t?skil olunmayacaq
+B) eyni "cost" d?y?ri olduguna gör? via G0/0 v? via G0/1, "load balance" t?skil olacaq
+C) yüks?k "cost" d?y?ri olduguna gör? yalniz G0/0
+D) yüks?k "cost" d?y?ri olduguna gör? yalniz G01
+E) asagi "cost" d?y?ri olduguna gör? yalniz G0/1
+
+203. S?kil 12.2-d? göst?ril?n v? OSPF protocol isl?y?n s?b?k?d? R1 routeri 192.168.4.0/24 ünvanina hansi "route"un cost d?y?ri n?q?d?r olacaq (Reference Bandwidth = 1000 000 kbps)?
+A) 3
+B) 30
+C) 0,3
+D) 2
+E) 20
+
+204. S?kil 12.2-d? göst?ril?n v? RIP protocol isl?y?n s?b?k?d? R1 routeri 192.168.4.0/24 ünvanina hansi "route" seç?c?k?
+A) hop sayi eni olduguna gör? via G0/0 v? via G0/1, "load balance" t?skil olacaq
+B) hop sayi eyni olduguna gör? via G0/0 v? via G0/1, lakin "load balance" t?skil olunmayacaq
+C) yüks?k "cost" d?y?ri olduguna gör? yalniz G0/0
+D) asagi "cost" d?y?ri olduguna gör? yalniz G0/0
+F) asagi "cost" d?y?ri olduguna gör? yalniz G0/1
+
+
+
+205. S?kil 12.3-d? göst?ril?n "Routing table"a ?sas?n  192.168.4.0/24 ünvanina çatmaq üçün hansi s?b?bd?n iki yol göst?rilib?
+A) H?r iki yolun "cost" d?y?ri eyni (3) oldugundan
+B) H?r iki yolun "cost" d?y?ri eyni (110) oldugundan
+C) H?r iki yolun "Administrative distance" d?y?ri eyni (110) oldugundan
+D) H?r iki yolun "Administrative distance" d?y?ri eyni (3) oldugundan
+E) H?r iki yolun gigabitEthernet portlar üz?rind?n oldugundan
+
+206.  S?kil 12.3-d? göst?ril?n "Routing table"a qirmizi ç?rçiv?y? salinan d?y?r n?yi bikdirir?
+A) cost
+B) hop
+C) administrative distance
+D) metric hop
+E) speed
+
+
+207.  RIP protokolunda "hop"larin sayi maksimal n? q?d?r ola bil?r?
+A) 15
+B) 20
+C) 25
+D) 30
+E) 10
+
+208.  Hansi RIP protokolu növünd? yalniz "Classful Addresses" t?tbiq oluna bil?r?
+A) RIPv1
+B) RIPv2
+C) RIPv3
+D) RIPv1 v? RIPv2
+E) RIPv2 v? RIPv3
+
+209.  RIP protokolunda hansi ünvanlama üsulu t?tbiq olunur?
+A) RIPv1: broadcast 255.255.255.255, RIPv2: multicast 224.0.0.9
+B) RIPv1: multicast 224.0.0.9, RIPv2: broadcast 255.255.255.255
+C) RIPv1: broadcast 255.255.255.0, RIPv2: multicast 224.0.0.10
+D) RIPv1: broadcast 255.0.0.0, RIPv2: multicast 224.0.0.10
+E) RIPv1: broadcast 255.255.255.0, RIPv2: multicast 224.0.0.7
+
+210.  Hansi RIP protokolunda v? hansi komanda il? "classless address" moduna aktiv olunur?
+A) RIPv2, "R(config-router)#no auto-cummary" 
+B) RIPv1, "R(config-router)#no auto-cummary" 
+C) RIPv2, "R(config-router)#classles" 
+D) RIPv1, "R(config-router)#auto-cummary" 
+E) RIPv3 "R(config-router)#classles"
+
+211.  EIGRP protokolunda hansi ünvanlama üsulu t?tbiq olunur?
+A) multicast 224.0.0.10
+B) broadcast 255.255.255.255
+C) multicast 224.0.0.12
+D) broadcast 255.0.0.0
+E) multicast 224.0.0.7
+
+212.  EIGRP hansi meyarlar ?sasinda paket yoxlanisini h?yata keçirm? imkanlarina malikdir?
+A) bandwidth, load, delay, reliability, MTU
+B) bandwidth, mode, protocol, codec, MTU
+C) hop, bandwidth, load, delay,
+D) cost, hop, delay, protocol, MTU
+E) IP class, bandwidth, load, delay
+
+213. Default olaraq EIGRP hansi meyarlar ?sasinda paket yoxlanisini h?yata keçirir?
+ A) bandwidth, delay
+ B) bandwidth, mode, 
+ C) protocol, codec, MTU 
+ D) hop, bandwidth, load, 
+ E) cost, hop, delay, protocol
+
+214.  Hansi routing protokolunda (növünd?) "unequal-cost load-balancing" mümkündür?
+A) EIGRP
+B) RIP
+C) IS-IS
+D) OSPF
+E) Static routing
+
+215. EIGRP protokolu isl?y?n s?b?k?d? "Successor" yolunun ["Feasible distance" / "Reported distance"] = [26742/22486] olarsa, hansi dig?r yollari "Feasible Successor" heasab olunur?
+A) [34848/26486], [28242/25116], [41548/19638]
+B) [34848/26486], [28242/35922], [41548/19638]
+C) [34848/26486], [28242/25116], [41548/26824]
+D) [24858/28486], [28242/25116], [41548/19638]
+E) [34848/26486], [28242/28766], [41548/19638]
+
+216. EIGRP protokolu isl?y?n s?b?k?d? "Successor" yolunun ["Feasible distance" / "Reported distance"] = [26742/22486] v? "Variance" = 2 olarsa hansi yollar "unequal-cost load-balancing"-d? istirak ed?c?k?
+A) [34848/26486], [28242/25116], [41548/19638]
+B) [54848/32486], [68242/35922], [41548/19638]
+C) [34848/26486], [68612/25116], [41548/26824]
+D) [24858/28486], [88242/25116], [41548/19638]
+E) [34848/26486], [78942/28766], [41548/19638]
+
+217.  Hansi halda router yolu mü?yy?n ed?nrk? "Administrative distance" meyarini ?sas götürür?
+A) Eyni "destination" s?b?k?y? f?rqli protokollar vasit?si il? bir çox yollar mü?yy?n olunarsa
+B) Eyni "source" s?b?k?y? f?rqli protokollar vasit?si il? bir çox yollar mü?yy?n olunarsa
+C) Eyni "destination" s?b?k?y? eyni protokollar vasit?si il? bir çox yollar mü?yy?n olunarsa
+D) Eyni "source" s?b?k?y? eyni protokollar vasit?si il? bir çox yollar mü?yy?n olunarsa
+E) Bütün hallarda
+
+
+
+218. OSPF ayarlarinda "Router(config-router)#redistribute static subnets" ?mri n?yi t?min edir?
+A) OSPF v? "Statik routing"in birg? çalismasini 
+B) OSPF v? "Dinamik routing"in birg? çalismasini
+C) Alt s?b?k?l?rin statik yön?lm?sini
+D) OSPF protokolunda "Statik routing" üstünlüyünü
+E) OSPF v? "Statik routing" birg? f?aliyy?tind? "Statik routing"in üstünlüyünü
+
+219. OSPF ayarlarinda "R(config-router)#network 192.168.10.0 0.0.0.3 area 0" ?mrin? ?sas?n s?b?k? hansi "Subnet mask"da göst?rilib?
+A) /30
+B) /27 
+C) /28
+D) /26
+E) /29
+
+220.  OSPF ayarlarina daxil olmaq üçün hansi ?mrd?n istifad? etm?k lazimdir?
+A) Router(config)# router ospf <1-65535>
+B) Router(config)# dynamic routing ospf <1-65535>
+C) Router(config)# ospf <1-65535>
+D) Router(config)# ip ospf <1-4096>
+E) Router(config-if)# router ospf <0-65535>
+
+
+
+
+221. OSPF protokolunda "R(config-router)#passive-interface G0/2" ?mri n? edir?
+A) G0/2 interface-? qosulan s?b?k?y? dinamik yenil?m?nin gönd?rilm?si dayandirir, lakin oradan yenil?m?l?rin q?bul edilm?sin? icaz? verir.
+B) G0/2 interface-? qosulan s?b?k?y? dinamik yenil?m?nin gönd?rilm?si v? oradan onun q?bul edilm?si dayandirir.
+C) G0/2 interface-? qosulan s?b?k?d?n dinamik yenil?m?nin q?bul edilm?si dayandirir, lakin yenil?m?nin ona gönd?rilm?sin? icaz? verir.
+D) G0/2 interfeysin? aid routerin ?m?liyyat sisteminin yenil?nm?sini dayandirir.
+E) G0/2 interfeysin? qosulan s?b?k?nin dig?r routerl?r? tanidilmasini dayandirir.
+
+222. OSPF protokolunda "Router ID" hansi prioritet? ?sas?n t?yin olunur? 
+A) 1-administrative ayarlanma, 2- lookback interfasd?ki ?n yüks?k IP ünvan v? ya 3- fiziki interface-l?rd?ki ?n yüks?k IP ünvan 
+B) 1-administrative ayarlanma, 2- fiziki interface-d?ki ?n yüks?k IP ünvan v? ya 3- lookback interface-d?ki ?n yüks?k IP ünvan
+C) 1-administrative ayarlanma, 2- fiziki interfasl?rin ?n yüks?k IP ünvani 
+D) Fiziki interfasl?rin ?n yüks?k IP ünvanini seç?r?k yalniz dinamik t?yin olunur
+E) Lookback interfasd?ki ?n yüks?k IP ünvani seç?r?k yalniz dinamik t?yin olunur
+
+223. OSPF protokolunda "R1(config-router)#default-information originate" ?mri n? üçün istifad? olunur?
+A) OSPF s?b?k?sinin R1 routeri üz?rind?n xarici s?b?k?y? çixisini v? ?ksin? ?laq?ni t?min edir
+B) R1 routeri il? dig?r routerl?r arasinda onlarin s?b?k?l?ri haqqinda qarsiliqli m?lumat mübadil?si t?min edilir
+C) Routerl?rin veril?nl?r bazasinin vaxtasiri yenil?nm?sini v? R1 routerin? gönd?rilm?sini t?min edir
+D) R1 routerinin veril?nl?r bazasini ilkin ayarlara qaytarir
+E) R1 routerind?ki m?lumatlarin statik olaraq OSPF s?b?k?sin? ötürülm?sini
+
+224. OSPF s?b?k?sind? hansi router? "Autonomous System Boundary Router" deyilir?
+A) OSPF s?b?k?sinin xarici s?b?k?y? çixisini t?min ed?n
+B) OSPF s?b?k?sind? dig?r routerl?ri idar? ed?n
+C) OSPF s?b?k?sind? dig?r routerl?rin alt s?b?k?l?ri haqqinda m?lumat toplayaraq yollari t?yin ed?n
+D) OSPF s?b?k?sind? müst?qil f?aliyy?t göst?r?r?k dig?r routerl?r arasinda sinxronizasiyani t?min ed?n
+E) OSPF s?b?k?sind? AREA-lar arasinda s?rh?d router funksiyasini yerin? yetir?n
+
+225. R1 routerinin G0/1 (IP: 10.0.12.1/28) v? G0/2 (IP: 10.0.13.1/26) interface-l?rind? OSPF protokolunu vahid ?mrl? nec? ayarlamaq olar?
+A) R1(config-router)#network 10.0.12.0  0.0.1.255  area 0
+B) R1(config-router)#network 10.0.12.0  0.0.0.255  area 0
+C) R1(config-router)#network 10.0.8.0  0.0.3.255  area 0
+D) R1(config-router)#network 10.0.13.0  0.0.1.255  area 0
+E) R1(config-router)#network 10.0.10.0  0.0.1.255  area 0
+
+226. OSPF s?b?k?sind? interface-in "Cost" d?y?ri nec? hesablanir?
+A) Reference Bandwidth / Interface's Bandwidth
+B) Interface's Bandwidth / Reference Bandwidth 
+C) Reference Bandwidth  d?y?rin? b?rab?r götürülür
+D) Interface's Bandwidth d?y?rin? b?rab?r götürülür
+E) Interface-in sür?ti 100 bölünür
+
+
+227. OSPF s?b?k?sind? GigabitEthernet v? daha yüks?k sür?tli interface-l?ri olan routerin portlarinin "Cost" d?y?rini f?rql?ndirm?k üçün n? edilir?
+A) Reference Bandwidth d?y?ri ?n sür?tli interface-in sür?t d?y?rin? b?rab?r v? ya daha yüks?k t?yin olunur
+B) Interface's Bandwidth d?y?ri ?n sür?tli interface-in sür?t d?y?rin? b?rab?r v? ya daha yüks?k t?yin olunur
+C) Reference Bandwidth d?y?ri ?n asagi sür?tli interface-in sür?t d?y?rin? b?rab?r v? ya daha kiçik t?yin olunur
+D) Interface's Bandwidth d?y?ri ?n asagi sür?tli interface-in sür?t d?y?rin? b?rab?r v? ya daha kiçik t?yin olunur
+E) Interface's Bandwidth d?y?ri sifir t?yin olunur
+
+228. OSPF s?b?k?sind? eyni sür?tli interface-l?ri olan routerin portlarinin "Cost" d?y?rini f?rql?ndirm?k üçün n? etm?k m?sl?h?t görülür? 
+A) Onlarin cost d?y?rl?ri f?rqli t?yin olunur 
+B) Onlarin sür?tl?ri f?rqli t?yin olunur 
+C) Onlarin Reference Bandwidth  d?y?rl?ri f?rqli t?yin olunur
+D) Onlarin cost v? Reference Bandwidth d?y?rl?ri f?rqli t?yin olunur
+E) Onlarin sür?t v? cost d?y?rl?ri  f?rqli t?yin olunur
+
+229. OSPF s?b?k?sind? interface-l?rin cost d?y?rl?ri n?y? t?sir edir?
+A) yolun ümumi d?y?rin?
+B) interface-in sür?tin?
+C) interface-in s?b?k? maskalasina
+D) alt s?b?k?l?rin seçilm? d?r?c?sin?
+E) interface-in Reference Bandwidth  d?y?rl?rin?
+
+230. Reference Bandwidth = 1 000 000 kbps v? Interface's Bandwidth = 10 000 000 kbps olarsa interface-in "Cost" d?y?rini mü?yy?n edin.
+A) 1
+B) 0,1
+C) 10
+D) 11
+E) 1.1
+
+231. OSPF-d? hansi interface-l?rin cost d?y?ri susmaya gör? eynidir v? 1-? b?rab?rdir?
+A) FastEthernet, GigabitEthernet, TenGigabitEthernet
+B) Ethernet, FastEthernet, GigabitEthernet, TenGigabitEthernet
+C) Bütün interface-l?rd? 
+D) Ethernet, FastEthernet, GigabitEthernet
+E) Ethernet v? FastEthernet
+
+232. OSPF zaman ayarlarinda Hello v? Dead Time parametrl?rinin susmaya gör? qiym?tl?ri n? q?d?rdir?
+A) 10 san v? 40 san
+B) 5 san v? 40 san
+C) 5 san v? 30 san
+D) 20 san v? 40 san
+E) 10 san v? 30 san
+
+233. S?kil 12.1-d?ki s?b?k?d? bütün routerl?rd? "Router(config-router)#auto-cost reference-bandwidth 1000 (Mbps)" ?mri yazilarsa A v? C routerl?ri arasinda ?n yaxsi yolun "Cost" d?y?ri n? q?d?rdir? 
+A) 3
+B) 11
+C) 30
+D) 12
+E) 25
+
+234. S?kil 12.1-d?ki s?b?k?d? bütün routerl?rd? Router(config-router)#auto-cost reference-bandwidth 1000 (Mbps) ?mri yazilarsa s?kil B v? D routerl?ri arasinda ?n yaxsi yolun "Cost" d?y?ri n? q?d?rdir?
+A) 2
+B) 11
+C) 20
+D) 12
+E) 6 
+
+235. S?kil 12.1-d?ki s?b?k?d? bütün routerl?rd? Router(config-router)#auto-cost reference-bandwidth 1000 (Mbps) ?mri yazilarsa D v? C routerl?ri arasinda ?n yaxsi yolun "Cost" d?y?ri n? q?d?rdir?
+A) 2
+B) 11
+C) 20
+D) 12
+E) 6 
+
+236. S?kil 12.1-d?ki s?b?k?d? bütün routerl?rd? Router(config-router)#auto-cost reference-bandwidth 1000 (Mbps) ?mri yazilarsa A v? D routerl?ri arasinda ?n yaxsi yolun "Cost" d?y?ri n? q?d?rdir?
+A) 3
+B) 11
+C) 30
+D) 10
+E) 6 
+
+237. S?kil 12.2-d?ki s?b?k?d? bütün routerl?rd? Router(config-router)#auto-cost reference-bandwidth 1000 (Mbps) ?mri yazilarsa s?kil A v? E routerl?ri arasinda ?n yaxsi yolun "Cost" d?y?ri n? q?d?rdir?
+A) 2
+B) 11
+C) 20
+D) 10
+E) 6 
+
+
+
+
+238. Router üz?rind?n hostlarin DHCP server? (IP: 10.10.10.1) müraci?t etm?l?ri nec? t?min olunur?
+A) R(config-if)#ip helper-address 10.10.10.1
+B) R(config-if)#dhcp server 10.10.10.1
+C) R(config-if)#ip server-address 10.10.10.1
+D) R(config-if)#ip dhcp-address 10.10.10.1
+E) R(config-if)#ip address server 10.10.10.1
+
+239. Routerin h?r hansi interface-ini DHCP client kimi ayarlamaq üçün hansi ?mr yazilir?
+A) R(config-if)#ip address dhcp
+B) R(config-if)# ip address client
+C) R(config-if)#ip dhcp client 
+D) R(config-if)#ip dhcp-address <IP address>
+E) R(config-if)#ip dhcp-server <IP address>
+
+240. R1 Cisco router-i DHCP server kimi ayarladiqda LAN üçün default gateway hansi ?mrl? t?yin olunur?
+A) R1(dhcp-config)#default-router <IP address>
+B) R1(dhcp-config)#default-gateway <IP address>
+C) R1(dhcp-config)#domain-name <Domane name>
+D) R1(dhcp-config)#ip dhcp pool <Pool name>
+E) R1(dhcp-config)#dns-server <IP address>
+
+241. R1 Cisco router-i DHCP server kimi ayarladiqda hansi ?mrl? mü?yy?n IP ünvanlarin paylanmasi m?hdudlasdirilir?
+A) R1(config)#ip dhcp excluded-address <IP address>
+B) R1(config)#dhcp restricted IP address <IP address>
+C) R1(config)#dhcp protected IP address <IP address>
+D) R1(config)#ip routing delete IP address <IP address>  
+E) R1(config)#ip routing assign IP address <IP address>
+ 
+242.  "Router(dhcp-config)#network 192.168.1.0 255.255.255.0"  ?mrinin t?yinati n?dir?
+A) "DHCP client"l?ri üçün paylanilan IP ünvanlari t?yin edir
+B) "DHCP client"l?ri üçün m?hdudlasdirilan IP ünvanlari t?yin edir
+C) "DHCP server" qosulan interface-in IP ünvaninin t?yin edir
+D) Router üz?rind?n IP ünvanlar paylayan DHCP server üçün default gateway t?yin olunur
+E) Router üz?rind?n IP ünvanlar paylayan DHCP clientl?r üçün default gateway t?yin olunur
+
+14) NAT
+
+243. "Router(config)#ip nat inside source list ABC interface GigabitEthernet0/0 overload" ?mrind? "GigabitEthernet0/0" hansi interface-dir?
+A) Public (xarici) s?b?k?y? qosulan 
+B) Private (daxili) s?b?k?y? qosulan
+C) Xarici s?b?k? routerinin bizim router? qosulan 
+D) NAT çevirm?l?ri üçün virtual yaradilan
+E) NAT çevirm?l?ri üçün girisi n?zar?t ed?n
+
+244. NAT protokolu IPv4-d? yaranan IP ünvanlarin qitligi problemini nec? h?ll edir?
+A) F?rqli LAN-larda eyni IP ünvanlarin t?krar?n istifad? etm?sin? imkan yaradir
+B) Daxili s?b?k?l?rd? IP ünvanlarin diapazonunu genisl?ndirir
+C) Daxili s?b?k?l?rd? IP ünvanlarin diapazonunu alt s?b?k?l?r? bölm?y? imkan yaradir
+D) IPv4 IP ünvanlari IPv6 ünvanlarina v? geri çevirir
+E) Xarici (public) s?b?k?nin IP ünvanlarini artirir
+
+
+245. "Router(config)#ip nat inside source list ABC interface GigabitEthernet0/0 overload" ?mrind? "ABC" n?yi bildirir?
+A) Xarici s?b?k?y? çixis üçün icaz? veril?n private (daxili) s?b?k?l?rin siyahisidir (ACL-in adidir) 
+B) Icaz? veril?n xarici s?b?k?l?rin siyahisidir (ACL-in adidir)
+C) GigabitEthernet0/0 interface-in? t?yin olunmus IP ünvanlarin siyahisidir (ACL-in adidir)
+D) GigabitEthernet0/0 interface-ind?n router? daxil olmaga icaz? veril?n IP ünvanlarin siyahisidir
+E) NAT t?hkim olunan interfacel?rin siyahisidir (ACL-in adidir)
+
+246. Asagidaki anlayislardan hansi NAT -da istifad? olunur?
+A) hamisi
+B) inside global
+C) outside global
+D) inside local
+E) outside local
+
+247. NAT üçün debug-i nec? baslatmaq olar?
+A) debug start nat
+B) start nat
+C) debug ip nat
+D) debug nat starts
+E) run nat
+
+248. S?kil 14.1-d? göst?ril?n R1 routerind? NAT t?tbiq olunmus s?b?k?d? google.com serverin? yön?lmis IP paketd? PC1 kompüterind?n çixan anda (A) m?nb? (Source, Src) v? h?d?f (Destination, Dst) IP ünvanlari n? olacaq?
+A) Src: 192.168.0.167; Dst: 8.8.8.8
+B) Src: 192.168.0.0; Dst: 8.8.8.8
+C) Src: 192.168.0.167; Dst: 192.168.0.1
+D) Src: 192.168.0.167; Dst: 203.0.113.2
+E) Src:  203.0.113.1; Dst: 203.0.113.2
+
+249. S?kil 14.1-d? göst?ril?n R1 routerind? NAT t?tbiq olunmus s?b?k?d? google.com serverin? yön?lmis IP paketd? R1 routerind?n çixan anda (B) m?nb? (Source, Src) v? h?d?f (Destination, Dst) IP ünvanlari n? olacaq?
+A) Src:  203.0.113.1; Dst: 8.8.8.8
+B) Src: 192.168.0.167; Dst: 8.8.8.8
+C) Src: 203.0.113.2; Dst: 8.8.8.8
+D) Src: 192.168.0.167; Dst: 192.168.0.1
+E) Src: 203.0.113.1; Dst: 203.0.113.2
+
+250. S?kil 14.1-d? göst?ril?n R1 routerind? NAT t?tbiq olunmus s?b?k?d? google.com serverin? yön?lmis IP paketd? Serverd?n çixan anda (C) m?nb? (Source, Src) v? h?d?f (Destination, Dst) IP ünvanlari n? olacaq?
+A) Src:  8.8.8.8; Dst: 203.0.113.1
+B) Src: 8.8.8.8; Dst: 192.168.0.167
+C) Src: 8.8.8.8; Dst: 203.0.113.2
+D) Src: 192.168.0.167; Dst: 192.168.0.1
+E) Src: 203.0.113.2; Dst: 203.0.113.1
+
+251. S?kil 14.1-d? göst?ril?n R1 routerind? NAT t?tbiq olunmus s?b?k?d? google.com serverin? yön?lmis IP paketd? R1-d?n çixan anda (D) m?nb? (Source, Src) v? h?d?f (Destination, Dst) IP ünvanlari n? olacaq?
+A) Src:  192.168.0.1; Dst: 192.168.0.167
+B) Src: 8.8.8.8; Dst: 192.168.0.167
+C) Src: 8.8.8.8; Dst: 203.0.113.2
+D) Src: 192.168.0.167; Dst: 192.168.0.1
+E) Src: 203.0.113.1; Dst: 192.168.0.167
+
+252. S?kil 14.1- ? ?sas?n hansi IP ünvanlar "Inside Local" (IN), hansi is? "Inside Global" (IG) olacaq?
+A) Src:  192.168.0.167; Dst: 203.0.113.1
+B) Src:  192.168.0.1; Dst: 203.0.113.1
+C) Src:  192.168.0.167; Dst: 203.0.113.2
+D) Src:  192.168.0.1; Dst: 203.0.113.2
+E) Src:  192.168.0.167; Dst: 8.8.8.8
+
+
+
+
+253. Routerd? 192.168.10.10 IP ünvanini 203.0.113.10 ünvanina uzlasdiran static NAT protokolunu ayarlamaq üçün hansi ?mr yazilir?
+A) R(config)#ip nat sourse inside static 192.168.10.10 203.0.113.10
+B) R(config)#ip nat static sourse 192.168.10.10 203.0.113.10
+C) R(config)#ip nat sourse inside static 203.0.113.10 192.168.10.10 
+D) R(config)#ip nat inside static 192.168.10.10 203.0.113.10
+E) R(config)#ip nat inside static 203.0.113.10 192.168.10.10 
+
+254. Routerd? static NAT protokolunu ayarladiqda iki f?rqli "Inside local" IP ünvani üçün ardicil olaraq eyni "Inside global" IP ünvani t?yin olunarsa n? bas ver?r?
+A) NAT protokolu birinci "Inside local" IP ünvani "Inside global" IP ünvana çevir?c?k
+B) NAT protokolun h?r iki "Inside local" IP ünvan üçün eyni "Inside global" IP ünvani istifad? olacaq
+C) NAT protokolu ikinci "Inside local" IP ünvani "Inside global" IP ünvana çevir?c?k, birincini is? drop ed?c?k
+D) NAT protokolu heç bir IP ünvani "Inside global" IP ünvana çevirm?y?c?k
+E) NAT protokolu birinci "Inside local" IP ünvani "Inside global" IP ünvana çevir?c?k, ikincini is? routerin xarici interface-inin IP ünvanina çevir?c?k
+
+255. Verilmis a)10.255.254.2, b)172.32.16.4, c)192.169.1.11, d)172.20.15.5, e)10.0.0.1 v? f)192.167.10.1 IP ünvanlardan hansilar "Private IP address" hesab olunur?
+A) a, d, e
+B) a, b, d, e
+C) b, c, d, f
+D) a, e, f
+E) c, d, f
+
+
+
+
+256.  S?kil 14.2-d? göst?ril?n NAT t?tbiq olunan sxem? v? alqoritm? ?sas?n hansi IP ünvanlar Inside Local (IL), Inside Global (IG), Outside Local (OL) v? Outside Global (OG) hesab olunacaq? 
+A) IL: 172.20.0.101, IG: 200.0.0.1, OL: 8.8.8.8, OG: 8.8.8.8
+B) IL: 172.20.0.0, IG: 200.0.0.0, OL: 8.8.8.8, OG: 8.8.8.8
+C) IL: 172.20.0.101, IG: 203.0.113.1, OL: 203.0.113.2, OG: 8.8.8.8
+D) IL: 172.20.0.101, IG: 200.0.0.1, OL: 8.8.8.8, OG: 203.0.113.2
+E) IL: 172.20.0.101, IG: 203.0.113.1, OL: 8.8.8.8, OG: 203.0.113.2
+
+
+
+257. Hansi NAT növü IP ünvanlarin q?na?ti m?qs?din? daha yaxsi xidm?t edir?
+A) NAT Overload 
+B) Static NAT
+C) Dinamic NAT
+D) Sourse NAT
+E) NAT Developed
+
+258. S?kil 14.3-d? göst?ril?n "Dinamic NAT" ayarlarina ?sas?n n? q?d?r "Inside Local" IP ünvan eyni zamanda "Inside Global" IP ünvanla ?v?z oluna bil?r?
+A) 126
+B) 254
+C) 256
+D) 1
+E) 128
+
+259. S?kil 14.3-d? göst?ril?n NAT ayarlarina ?sas?n hansi IP ünvanlar Inside Local (IL), v? Inside Global (IG) hesab olunur? 
+A) IL: 172.16.1.0 /24, IG: 203.0.113.0 /25
+B) IL: 172.16.1.0 /25, IG: 203.0.113.0 /25
+C) IL: 203.0.113.1 /25, IG: 203.0.113.126 /25
+D) IL: 203.0.113.1 /24, IG: 203.0.113.126 /25
+E) IL: 203.0.113.1 /25, IG: 203.0.113.126 /24
+
+260. S?kil 14.3-d? göst?ril?n NAT ayarlarina ?sas?n eyni zamanda 130 daxili host xarici Internet s?b?k?sin? müraci?t etm?y? c?hd ed?rs? routerd? n? bas ver?c?k?
+A) Son 4 hostun paketl?rini discard ed?c?k
+B) Son 2 hostun paketl?rini discard ed?c?k
+C) Bütün istifad?çil?r? m?xsus paketl?r xarici s?b?k?y? "translate" ed?c?k
+D) Son 2 hostun paketl?rini, h?r hansi "Inside Global" IP ünvan bosalanad?k yaddasda saxlayacaq, sonra h?min paketl?ri xarici s?b?k?y? "translate" ed?c?k
+E) Son 4 hostun paketl?rini, h?r hansi "Inside Global" IP ünvan bosalanad?k yaddasda saxlayacaq, sonra h?min paketl?ri xarici s?b?k?y? "translate" ed?c?k
+
+
+
+
+
+
+261. S?kil 14.4-d? göst?ril?n NAT ayarlarina ?sas?n 192.168.1.0 /24 alt s?b?k?sind?n hostlar xarici s?b?k?y? müraci?t etm?y? c?hd ets?l?r n? bas ver?c?k?
+A) Onlarin paketl?ri router t?r?find?n "translate" olunmayacaq
+B) Onlarin paketl?ri router t?r?find?n "discard" edil?c?k
+C) Onlarin paketl?ri 203.0.113.0 /25 ail?sin? m?xsus h?r hansi IP ünvana "translate" olunacaq
+D) Onlarin paketl?rini router h?r hansi "Inside Global" IP ünvani bosalanad?k yaddasda saxlayacaq, sonra h?min paketl?ri xarici s?b?k?y? "translate" ed?c?k
+E) Onlarin paketl?ri routerin xarici interface-inin IP ünvanina "translate" olunacaq
+
+
+
+262. "Dinamic NAT" növünd? "ip nat inside source list AAA...." ?mr s?trind? "Inside Global" IP ünvanlarini t?yin etm?k üçün n? edilir?
+A) Önc? NAT pool yaradilir, sonra h?min ?mr s?trin? "pool" k?lm?si ?lav? edilir v? "pool"un adi göst?rilir
+B) Önc? ACL t?rtib olunur, sonra h?min ?mr s?trin? "pool" k?lm?si ?lav? edilir v? ACL-in adi göst?rilir
+C) H?min ?mr s?trind? "Inside Global" IP ünvanlarin baslangic v? son IP ünvanlari göst?rilir
+D) H?min ?mr s?trind? "Inside Global" IP ünvani kimi t?yin olunmus s?b?k?ni IP ünvani v? Subnet Mask göst?rilir
+E) H?min ?mr s?trind? "Inside Global" IP ünvanlarin baslangic IP ünvani v? t?l?b olunan IP ünvanlarin sayi göst?rilir
+
+263. "Dinamic NAT" növünd? "ip nat inside source...." ?mr s?trind? "Inside Local" IP ünvanlarini t?yin etm?k üçün n? edilir?
+A) Önc? ACL t?rtib olunur, sonra h?min ?mr s?trin? "list" k?lm?si ?lav? edilir v? ACL-in adi göst?rilir
+B) Önc? NAT pool yaradilir, sonra h?min ?mr s?trind? "list" k?lm?si ?lav? edilir v? "pool"un adi göst?rilir
+C) H?min ?mr s?trind? "Inside Local" IP ünvanlarin baslangic v? son IP ünvanlari göst?rilir
+D) H?min ?mr s?trind? "Inside Local" IP ünvani kimi t?yin olunmus s?b?k?ni IP ünvani v? Subnet Mask göst?rilir
+E) H?min ?mr s?trind? "Inside Local" IP ünvanlarin baslangic IP ünvani v? t?l?b olunan IP ünvanlarin sayi göst?rilir
+
+264. "Dinamic NAT" növünd? routerin WAN interface-nin IP ünvanini, bütün "Inside Local" IP ünvanlari üçün, "Inside Global" IP ünvani kimi istifad? etm?k m?qs?di il? "ip nat inside source list AAA ..." ?mr s?trind? n? ?lav? yazilir?
+A) interface <WAN interface > v? overload  
+B) interface <WAN interface-in IP ünvani> v? overload 
+C) interface <WAN interface-in IP ünvani> v? dinamic 
+D) interface <WAN interface> v? dinamic 
+E) interface <WAN interface> v? dinamic overload 
+
+
+265. "Standart" ACL növünd? IP paketin hansi sah?si/l?ri yoxlanilir?
+A) Source IP address
+B) Destination IP address
+C) Source IP address, Destination IP address
+D) Source IP address, Destination IP address, protocol
+E) Source IP address, Destination IP address, port 
+
+
+266. "Standart" ACL növünün nömr? diapazonu hansidir?
+A) 1-99
+B) 100-199
+C) 1100-1199
+D) 200-299
+E) 0-799
+
+267. Ist?nil?n ACL hansi s?trl? tamamlanir?
+A) deny any 
+B) permit any
+C) permit any any
+D) access all
+E) reject any
+
+268.  "AAA" adli ACL-i interface-in girisin? dogru t?tbiq etm?k üçün hansi ?mr yazilir?
+A) R(config-if)#ip access-group AAA in
+B) R(config-if)#ip access-list  AAA in
+C) R(config-if)#ip access-list  AAA out
+D) R(config-if)#access-list  AAA out 
+E) R(config-if)#ip access-group AAA out
+
+269.  "R(config)#access-list 1 permit 172.16.36.0 0.0.0.255" access list ?mri n? edir?
+A) Source IP ünvani 172.16.36.0 /24 olan paketl?r? icaz? verir
+B) Destination IP ünvani 172.16.36.0 /24 olan paketl?r? icaz? verir
+C) Source IP ünvani 172.16.36.0 /24 olan paketl?r xaric, bütün trafik? icaz? verir
+D) Destination IP ünvani 172.16.36.0 /24 olan paketl?r xaric, bütün trafik? icaz? verir
+E) Destination IP ünvani 172.16.36.0 /24 olan paketl?r xaric, bütün trafik? qadaga t?tiq edir
+ 
+270. S?kil 15.1-d? göst?ril?n ?mrl?ri router? daxil ed?r?k n?y? nail olunur? 
+A) 172.16.36.236 hostu istisna olmaqla yalniz 172.16.36.0 s?b?k?sind?n daxil olan trafik? icaz? verir
+B) 172.16.36.236 hostuna yön?l?n paketl?r istisna olmaqla bütün 172.16.36.0 s?b?k?sind?n v? dig?r bütün s?b?k?l?rd?n yön?l?n trafikl?r? icaz? verir
+C) 172.16.36.236 hostuna yön?l?n paketl?r istisna olmaqla bütün dig?r s?b?k?l?r? qadaga t?tbiq edir
+D) 172.16.36.236 hostuna yön?l?n paketl?r istisna olmaqla bütün dig?r s?b?k?l?r? icaz? edir
+E) Yalniz 172.16.36.0 s?b?k?sind?n daxil olan trafik? icaz? verir
+
+
+271. Hansi ACL 192.168.33.8 hostundan daxil olan trafik? qadaga, dig?r bütün s?b?k?l?rd?n daxil olnlara is? icaz? t?tbiq ed?c?k? 
+A) access-list 1 deny 192.168.33.8 0.0.0.0 
+access-list 1 permit any
+B) access-list 1 permit 192.168.33.0 0.0.0.255 
+                  access-list 1 deny any
+C) access-list 1 deny 192.168.33.8 0.0.0.255 
+access-list 1 permit any
+D) access-list 1 permit 192.168.33.8 0.0.0.255 
+access-list 1 deny 192.168.33.0 0.0.0.255
+E) access-list 1 permit 192.168.33.0 0.0.0.255 
+
+
+272. S?kil 15.2- d? göst?ril?n ?mrl?ri router? daxil ed?r?k n?y? nail olunur? 
+A) 136.147.27.236 hostu istisna olmaqla bütün s?b?k?l?rd?n daxil olan trafik? icaz? verir
+B) 136.147.27.236 hostuna yön?l?n paketl?r istisna olmaqla bütün s?b?k?l?rd?n daxil olan trafik? icaz? verir 
+C) 136.147.27.236 hostuna yön?l?n paketl?r istisna olmaqla bütün dig?r s?b?k?l?r? qadaga t?tbiq edir
+D) 136.147.27.236 hostu istisna olmaqla bütün s?b?k?l?rd?n daxil olan trafik? qadaga t?tbiq edir
+E) Bütün s?b?k?l?r? qadaga t?tbiq edir
+
+
+     
+     
+273. IPv4 genisl?ndirilmis (extended) ACL üçün hansi nömr? diapazonu istifad? olunur?
+A) 100-199
+B) 1100-1199
+C) 200-299
+D) 1-99
+E) 700-799
+
+274. Asagidaki b?ndl?rd?n hansi "Standart" ACL-d? istifad? olunur?
+A) Source IP address v? Wildcard Mask
+B) Destination IP address v? Subnet Mask
+C) Source MAC address v? Subnet Mask
+D) Destination IP address v? Wildcard Mask
+E) Destination IP address, Source IP address v? Wildcard Mask
+
+275. Asagidaki b?ndl?rd?n hansi "Extended" ACL-d? istifad? olunur?
+A) Source IP address v? Wildcard Mask, Destination IP address v? Wildcard Mask, Protocol, Source port, Destination port
+B) Source IP address v? Wildcard Mask, Destination IP address v? Wildcard Mask, Source protocol Destination protocol, Source port, Destination port
+C) Source IP address v? Subnet Mask
+D) Source IP address v? Wildcard Mask, Source MAC address, Destination IP address v? Wildcard Mask, Destination MAC address, Protocol, Source Port v? Destination port
+E) Destination IP address, Source IP address v? Wildcard Mask
+
+276. Asagidaki b?ndl?rd?n hansi genisl?ndirilmis "Extended ACL" üçün düzgün nümun?dir?
+A) Router(config-ext-nacl)#permit ip 192.168.10.0  0.0.0.255 172.16.0.0  0.0.255.255
+B) Router(config-ext-nacl)#permit ip 192.168.10.0  0.0.0.255 eq 443
+C) Router(config-ext-nacl)#permit ip 172.16.0.0  172.16.0.0   eq 443
+D) Router(config-ext-nacl)#permit 192.168.10.0  0.0.0.255  172.16.0.0  0.0.255.255
+E) Router(config-ext-nacl)#ip 192.168.10.0  0.0.0.255 172.16.0.0  0.0.255.255 eq 443
+
+
+
+
+
+
+
+
+
+
+277.  "access-list 100 permit ip any 10.10.1.0 0.0.0.255" ACL L3 switch-d? VLAN 18-in girisin? (inbound) t?tbiq etm?k üçün hansi ?mrd?n istifad? etm?k lazimdir?
+A) interface vlan18
+ip address 10.10.1.254 255.255.255.0
+ip access-group 100 in
+B) interface vlan18
+ip address 10.10.1.0 255.255.255.0
+ip access-group 100 in
+C) interface vlan18
+ip address 10.10.1.254 255.255.255.0
+ip access-class 100 out
+D) interface vlan18
+ip address 10.10.1.0 255.255.255.0
+ip access-class 100 in 
+E) interface vlan18
+ip address 10.10.1.254 255.255.255.0
+ip access-class
+
+278. "R(config)#access-list 10 permit 192.168.1.253" ?mrind? "line vty 0 15" -? t?tbiq etm?k üçün hansi ?mrd?n istifad? etm?k lazimdir?
+A) line vty 0 15
+access-class 10 in 
+B) line vty 0 15
+access-class 10 in 192.168.1.253
+C) line vty 0 15
+access-group 10 in
+D) line vty 0 15
+access-class in 192.168.1.253
+E) line vty 0 15
+access-group 10 in 192.168.1.253
+
+279. S?kil 15.4-d?ki s?b?k?d? 10.1.1.11 hostudan 10.3.3.0 /24 ail?sin? yön?lmis paket axinina qadaga t?tbiq etm?k üçün ACL növü, router, interface v? istiqam?t hansi cavabda ?n dogru t?yin olunmusdur?
+A) Standart: router C, interface G0/0, out v? ya Extended: router A, interface G0/0, in
+B) Extended: router A, interface G0/1, out
+C) Standart: router C, interface G0/2, in
+D) Standart: router A, interface G0/0, in v? ya Extended: router C, interface G0/0, out
+E) Standart: router A, interface G0/1, out v? ya Extended: router C, interface G0/2, in
+
+280. S?kil 15.4-d?ki s?b?k?d? 10.1.1.11 hostudan Google Servere müraci?tin? qadaga t?tbiq etm?k üçün ACL növü, router, interface v? istiqam?t hansi cavabda ?n dogru t?yin olunmusdur?
+A) Standart: router C, interface G0/1, out v? ya Extended: router A, interface G0/0, in
+B) Extended: router A, interface G0/1, out
+C) Standart: router C, interface G0/1, out
+D) Standart: router A, interface G0/0, in v? ya Extended: router C, interface G0/1 out
+E) Standart: router A, interface G0/1, out v? ya Extended: router C, interface G0/1, out
+
+
+
+281. S?kil 15.4-d?ki s?b?k?d? 10.2.2.22 hostudan 10.1.3.0 /24 ail?sin? yön?lmis paket axinina qadaga t?tbiq etm?k üçün ACL növü, router, interface v? istiqam?t hansi cavabda ?n dogru t?yin olunmusdur?
+A) Standart: router A, interface G0/0, out v? ya Extended: router B, interface G0/0, in
+B) Extended: router A, interface G0/0, out
+C) Standart: router B, interface G0/1, in
+D) Standart: router A, interface G0/0, in v? ya Extended: router B, interface G0/1 out
+E) Standart: router A, interface G0/1, out v? ya Extended: router B, interface G0/0, in
+
+
+S?kil 15.4
+
+282. S?kil 15.5-d?ki s?b?k?d? PC1 hostunun yalniz SRV1 serverin? v? PC4 hostuna ?lçatanligini t?min etm?k üçün ACL növü, router, interface v? istiqam?t hansi cavabda dogru t?yin olunmusdur?
+A) Extended: R1, interface G0/1, in
+B) Extended: R1, interface G0/2, out v? R2, interface G0/1, out 
+C) Extended: R1, interface G0/2, out v? ya Standart: R2, interface G0/1, out 
+D) Standart: R1, interface G0/2, out v? ya Extended: R2, interface G0/1 out
+E) Standart: R1, interface G0/2, out v? R2, interface G0/1 out
+
+283. S?kil 15.5-d?ki s?b?k?d? PC1 v? PC2 hostlari arasinda paket axinina qadaga t?tbiq etm?k üçün ACL növü, router, interface v? istiqam?t hansi cavabda dogru t?yin olunmusdur?
+A) Routerl?r vasit?si il? bu mümkün deyil
+B) Extended: R1, interface G0/1, in v? R1, interface G0/1, out 
+C) Extended: R1, interface G0/1, out v? ya Standart: R2, interface G0/1, in
+D) Standart: R1, interface G0/1, out v? Extended: R1, interface G0/1 in
+E) Standart: R1, interface G0/1, out v? ya R1, interface G0/1 in
+
+284. S?kil 15.5-d?ki R1 routerinin G0/2 interface-inin çixisina (outbound) Standart ACL t?tbiq olunur. A) permit any any, B) permit 192.168.1.1 0.0.0.0; C) deny 192.168.1.0 0.0.0.255 ACE-l?r hansi sira il? daxil edilm?lidir ki, 192.168.1.0 ail?sind?n yalniz PC1 kompüterinin 192.168.2.0 ail?sin? ?lçatanligi t?min olunsun?
+A) 1-B, 2-C, 3-A
+B) 1-C, 2-B, 3-A
+C) 1-A, 2-C, 3-B
+D) 1-B, 2-A, 3-C
+E) 1-A, 2-B, 3-C
+
+
+
+285. Hansi ifad? ACL-in t?rbiqi üçün dogrudur?
+A) H?r interface-in girisin? (inbound) yalniz bir v? çixisina da yalniz bir ACL t?tbiq etm?k olar
+B) H?r interface-in ya girisin? (inbound) ya da çixisina yalniz bir ACL t?tbiq etm?k olar
+C) ACL-in router? t?tbiq olundugundan h?r bir interface-? bir çox ACL t?tbiq etm?k olar
+D) ACL yalniz fiziki interface-? t?tbiq etm?k olar
+E) ACL yalniz m?ntiqi (alt) interface-? t?tbiq etm?k olar
+
+
+
+
+286. ACL hara t?rbiq etm?k daha m?sl?h?tdir?
+A) Standart ACL: Destination hosta yaxin, Extended ACL: Source hosta yaxin
+B) Standart ACL: Source hosta yaxin, Extended ACL: Destination hosta yaxin
+C) Növünd?n asili olmadan Source hosta yaxin
+D) Növünd?n asili olmadan Destination hosta yaxin
+E) Istifad? yeri ?h?miyy?t dasimir
+
+287. S?kil 15.6 göst?ril?n ACL ayarlarinin t?siri nec? olacaq?
+A) 10.0.0.0 /24 s?b?k?sinin trafikin? qadaga t?tbiq olunacaq
+B) 172.16.0.0 /24 s?b?k?sinin trafikin? qadaga t?tbiq olunacaq
+C) Bütün trafik? qadaga t?tbiq olunacaq
+D) 192.168.0.0 /24 s?b?k?sinin trafikin? qadaga t?tbiq olunacaq
+E) 10.0.0.0 /24, 172.16.0.0 /24 v? 192.168.0.0 /24 s?b?k?l?rin trafikl?rin? qadaga t?tbiq olunacaq
+
+
+288.  Bütün axina icaz? verm?k üçün Extended ACL nec? t?rtib edilir?
+A) Router(config-ext-nacl)#deny ip any any
+B) Router(config)#deny ip any any
+C) Router(config-if)#deny ip any any
+D) Router(config-ext-nacl)#deny ip any host any host
+E) Router(config-if)#deny ip any host any host
+
+289.  10.0.0.0/16 s?b?k?sind?n 192.168.1.11/32 hostuna ötürül?n UDP axina qadaga t?tbiq etm?k üçün Extended ACL nec? t?rtib olnur?
+A) Router(config-ext-nacl)#deny udp 10.0.0.0  0.0.255.255 host 192.168.1.11
+B) Router(config-ext-nacl)#deny udp 10.0.0.0  0.0.0.255 host 192.168.1.0 0.0.0.255
+C) Router(config-ext-nacl)#deny udp 10.0.0.0  0.0.255.255 host 192.168.1.11 0.0.0.0
+D) Router(config-ext-nacl)#deny udp 10.0.0.0  255.255.0.0 host 192.168.1.11 255.255.255.255
+E) Router(config-ext-nacl)#deny udp 10.0.0.0  255.0.0.0 host 192.168.1.11 255.255.255.255
+
+290. 172.16.1.11/32 hostundan 192.168.0.0/24 s?b?k?sin? ping edilm?sin? qadaga t?tbiq etm?k üçün Extended ACL nec? t?rtib olnur?
+A) Router(config-ext-nacl)#deny icmp host 172.16.1.11 192.168.0.0 0.0.255.255
+B) Router(config-ext-nacl)#deny icmp host 172.16.1.0 0.0.0.255 192.168.0.0  0.0.255.255
+C) Router(config-ext-nacl)#deny icmp host 172.16.1.11  0.0.0.255 192.168.0.0 0.0.255.255
+D) Router(config-ext-nacl)#deny icmp 172.16.1.11 0.0.0.255 host 192.168.0.0 
+E) Router(config-ext-nacl)#deny icmp host 172.16.1.0  host 192.168.0.0 
+
+291. 10.0.0.0/16 s?b?k?sind?n 2.2.2.2/32 serverin? yalniz https protokolu ?sasinda müraci?ti t?min etm?k üçün Extended ACL nec? t?rtib olnur?
+A) Router(config-ext-nacl)#permit tcp 10.0.0.0 0.0.0.255 host 2.2.2.2 eq 443
+B) Router(config-ext-nacl)#permit udp 10.0.0.0 0.0.0.255 host 2.2.2.2 eq 400
+C) Router(config-ext-nacl)#permit udp host 10.0.0.0  host 2.2.2.2 eq 400
+D) Router(config-ext-nacl)#permit tcp host 10.0.0.0 host 2.2.2.2 eq 443
+E) Router(config-ext-nacl)#permit tcp host 10.0.0.0 0.0.0.255 host 2.2.2.2 0.0.0.0 eq 21
+
+
+
+
+292.  udp protokolu ?sasinda 20000 - 30000 araliginda olan portlardan 3.3.3.3/32 serverin? ?lçatanligi m?hdudlasdirmaq üçün Extended ACL nec? t?rtib olnur?
+A) Router(config-ext-nacl)#deny udp any range 20000 30000 host 4.4.4.4
+B) Router(config-ext-nacl)#deny udp 0.0.0.0 host 4.4.4.4 range 20000 30000
+C) Router(config-ext-nacl)#deny udp any host 4.4.4.4 range 20000 30000
+D) Router(config-ext-nacl)#deny udp any 0.0.0.0 host 4.4.4.4 range 20000 30000
+E) Router(config-ext-nacl)#deny udp any range 20000 30000 host 4.4.4.4 0.0.0.0
+
+293.  tcp protokolu ?sasinda 9999-dan böyük port nömr?l?ri istifad? ed?n 192.168.0.0/24 s?b?k?sind?n 4.4.4.4/32 serverin?, onun 23-cü portu istisna olmaqla, ?lçatanligi t?min etm?k üçün Extended ACL nec? t?rtib olnur?
+A) Router(config-ext-nacl)#permit tcp 192.168.0.0 0.0.0.255 gt 9999 host 4.4.4.4 neq 23
+B) Router(config-ext-nacl)#permit tcp 192.168.0.0 0.0.0.0 bg 9999 host 4.4.4.4  0.0.0.0 neq 23
+C) Router(config-ext-nacl)#permit tcp 192.168.0.0 0.0.0.255 eq 9999 host 4.4.4.4 0.0.0.0 eq 23
+D) Router(config-ext-nacl)#permit tcp 192.168.0.0 0.0.255.255 neq 9999 host 4.4.4.4 eq 23
+E) Router(config-ext-nacl)#permit tcp 192.168.0.0 0.0.255.255 gt 9999 host 4.4.4.4 0.0.0.255 neq 23
+
+294. S?kil 15.7-d? göst?ril?n s?b?k?d? yalniz PC1 hostunun SRV1-d? f?aliyy?t göst?r?n TFTP serverin? ?lçatanligi t?min olunmasi üçün hansi ACL dogru t?rtib olunub?
+A) 103
+B) 100 v? 102
+C) 100 v? 101
+D) 102 v? 103
+E) 101 
+
+295. S?kil 15.8-da göst?ril?n ?mrin t?siri nec? olacaq?
+A) access-list 1 silin?c?k
+B) source IP ünvani 10.0.2.0 /24 olan s?b?k?nin trafiki m?hdudlasdirilacaq 
+C) destination IP ünvani 10.0.2.0 /24 olan s?b?k?nin trafiki m?hdudlasdirilacaq 
+D) source IP ünvani 10.0.2.0 /24 olan s?b?k?nin trafikin? icaz? veril?c?k 
+E) destination IP ünvani 10.0.2.0 /24 olan s?b?k?nin trafikin? icaz? veril?c?k
+
+
+296. S?kil 15.9 göst?ril?n d?yisikliy? nail olmaq üçün göst?ril?nl?rd?n hansi ?mr dogrudur?
+A) Router(config)#ip access-list extended resequence 199 5 10
+B) Router(config)#ip access-list resequence 199 5 10
+C) Router(config)#ip access-list resequence 199 5 15 25 35
+D) Router(config)#ip access-list standart resequence 199 5 10 35
+E) Router(config)#ip access-list extended resequence 199 5 35
+
+
+
+
+297. S?kil 15.10-da göst?rin hansi ACL -d? R1 routeri G0/2 interface-inin çixisinda OSPF paketl?rini m?hdudlasdiracaq?
+A) 112
+B) 11
+C) 110
+D) 113
+E) hamisinda
+
+
+298. S?kil 15.11-d? göst?ril?n ayarlarda192.168.1.0/24 s?b?k?sind?n 10.0.2.0 /24 s?b?k?sin? http v? https protocollari ?sasinda ?lçatanligi m?hdudlasdirmaq üçün hansi b?ndl?rd?ki d?yisiklikliyi etm?k lazimdir?
+A) c v? e
+B) c v? f
+C) a v? c
+D) a v? f
+E) d v? e
+
+16) IPsec VPN runnel, S?b?k? t?hlük?sizliyi
+
+299. Routerl?r arasinda VPN ipsec qurasdirilib, hansi ?mrl? onlarin isl?k v?ziyy?td? olmasini yoxlaya bil?rsiz?
+A) show crypto isakmp sa
+B) show crypto isakmp 
+C) show crypto 
+D) show isakmp default
+E) show default isakmp 
+
+300. Asagidaki cavablarin hansinda s?b?k?miz daha t?hlük?siz t?nziml?nmis olar?
+A) Bütün 802.1Q trunk portlarda eyni v? 1-d?n f?rqli  Native VLAN  ID t?yin olunduqda
+B) Bütün 802.1Q trunk portlarda Native VLAN eyni olduqda
+C) Bütün 802.1Q trunk portlarda Native VLAN f?rqli olduqda
+D) Bütün 802.1Q trunk portlarda Native VLAN l?gv edil?nd?
+E) Bütün 802.1Q trunklarda Native VLAN istifad' edil?n VLAN-lardan biri olduqda
+
+301. Asagidaki ?mrl?rd?n hansi t?tbiq olunduqda s?b?k?miz daha t?hlük?siz olar?
+A) switchport trunk allowed vlan 10,21,35 
+B) switchport trunk allowed vlan all
+C) switchport trunk allowed vlan except 20 
+D) switchport trunk allowed vlan add 1,10,20,30
+E) switchport trunk allowed vlan 1
+
+
+
+
+
+
+
+
+
+302. Cisco switch-d? h?r hansi interface üçün asagidaki ?mrl?r t?yin olunduqda n? bas verir?
+SW(config-if)# switchport port-security
+SW(config-if)# switchport port-security mac-address sticky
+
+A) Porta qosulan cihazin MAC ünvani dinamik öyr?nilir v? isl?m? ayarlarinda (running-configuration) saxlanilir
+B) Porta qosulan cihazin MAC ünvani dinamik öyr?nilir v? baslangic ayarlarda (startup configuration) saxlanilir
+C) Porta qosulan cihazin MAC ünvani dinamik öyr?nilir v? VLAN veril?nl?r bazasinda saxlanilir
+D) Porta qosulan cihazin statik daxil edilmis MAC ünvanini dinamik olaraq isl?m? konfiqurasiyasina (running-configuration) ötürür
+E) Porta ilk qosulan cihazin MAC ünvani MAC c?dv?l? yazilmir v? dinamik olaraq s?b?k?y? yönl?ndirilir
+
+303.  Wireless Security protokolu hansilardir?
+A) Bütün hamisi
+B) WPA (Wi-Fi Protected Access)
+C) WPA3 (Wi-Fi Protected Access 3)
+D) WPA2 (Wi-Fi Protected Access 2)
+E) WEP (Wired Equivalent Privacy)
+
+304.  Cisco cihazlarinda DHCP Snooping-i nec? aktivl?sdirm?k olar?
+A) ip dhcp snooping
+B) run snooping
+C) dhcp snooping start
+D) enable snooping
+E) run dhcp snooping
+
+305.  Cisco Routerd? "Interface configuration" rejimind?n "Privlieged" rejimin? nec? keç? bil?rik?
+A) Ctrl-Z
+B) Ctrl-A
+C) Ctrl-P
+D) Ctrl-Alt-Del
+E) Esc
+
+306. Cisco cihazlarinda Syslog-u nec? aktivl?sdirm?k olar?
+A) logging on
+B) run Logging
+C) start logging
+D) logging start
+E) host 10.10.10.1 logging
+
+
+307. Cisco cihazlarinda qonsular haqqinda ?trafli m?lumati görm?k ist?dikd? hansi ?mri yazmaliyiq?
+A) show cdp neighbors details
+B) show neighbors cdp
+C) show neighbors details 
+D) show cdp neighbors multiservice
+E) show neighbors details multiservice
+
+308. Asagidaki hansi ?mrl? siz Cisco cihazlarindaki dynamic routing konfiqurasiyalari haqqinda m?lumat ?ld? ed? bil?rsiz?
+A) show ip protocols
+B) show ip cdp detail
+C) show ip dhcp detail
+D) show ip enable
+E) show ip redirects
+
+309. Hansi CISCO ?mri OSPF qonsularini göst?rir?
+A) show ip ospf neighbor
+B) show protocols
+C) show ip ospf
+D) show ip ospf database
+E) debug ip ospf neighbor
+
+310. Asagida yazilan ?mrl?rd?n hansi Cisco avadaniliqlarinda sassinin seriya nömr?l?rini göst?rir
+A) show inventory
+B) show running-config
+C) show spanning-tree
+D) show cdp neighbor
+E) show interface fastethernet 0/1 switchport
+
+311. S?kil 18.1-d? PC4 kompüterind?n PC1 kompüterin? ötürül?n "Ethernet frame"in "Destination MAC address"ini t?yin edin.
+A) fffe
+B) 1111
+C) 4444
+D) aaaa
+E) 192.168.1.1
+312. S?kil 18.1-d? PC4 kompüterind?n PC1 kompüterin? ötürülmüs "Ethernet frame"in R1 routerinin Gi0/0 interface-in girisind? "Source MAC address"ini t?yin edin.
+A) cccc
+B) 1111
+C) 4444         
+D) aaaa
+E) 192.168.1.1
+
+313. S?kil 18.1-d? PC4 kompüterind?n PC1 kompüterin? ötürülmüs "Ethernet frame"in R4 routerinin Gi0/1 interface-in xaricind? "Destination IP address"ini t?yin edin.
+ A) 192.168.1.1
+ B) dddd
+ C) 192.168.4.254
+ D) 192.168.24.2
+ E) 192.168.24.4
+
+
+
+
+
+
+
+314. S?kil 18.1-d? PC4 kompüterind?n PC1 kompüterin? ötürülmüs "Ethernet frame"in SW1 switch-in Gi0/1 interface-in çixisinda "Source MAC address"ini t?yin edin.
+A) aaaa
+B) kkkk
+C) fffe
+D) 1111
+E) 4444      
+   
+315. S?kil 18.1-d? PC4 kompüterind?n PC1 kompüterin? ötürülmüs "Ethernet frame"in SW1 switch-in Gi0/0 interface-in girisind? "Destination MAC address"ini t?yin edin.
+A) 1111
+B) aaaa
+C) kkkk
+D) fffe
+E) nnnn       
+  
+316. S?kil 18.1-d? PC4 kompüterind?n PC1 kompüterin? ötürülmüs "Ethernet frame"in R1 routerinin Gi0/0 interface-inin girisind? "Sourse IP address"ini t?yin edin.
+ A) 192.168.4.1
+ B) 192.168.1.1
+ C) 192.168.12.2
+ D) 192.168.24.2
+ E) 192.168.24.4
+
+
+
+
+
+
+
+
